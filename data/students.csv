@@ -1,0 +1,1001 @@
+student_id,name,background,skills,interests
+1,Quinn1,Physics,"Statistics, TensorFlow",Cybersecurity
+2,Eva2,Computer Applications,"Cloud, R, Java",Robotics
+3,Frank3,IT,"Java, Python, Cybersecurity, Statistics",Analytics
+4,Oscar4,Computer Science,"VHDL, Python, ML, R, HTML","VLSI, Software Development"
+5,Frank5,Computer Applications,"C++, TensorFlow, Power BI, JavaScript, CSS","Robotics, Analytics"
+6,Eva6,Digital Electronics,"Cloud, TensorFlow, ML, NLP, IoT","IoT, Embedded Systems"
+7,Charlie7,Mechanical Eng.,"Verilog, Cybersecurity, Statistics",Automation
+8,Leo8,Business Analytics,"VHDL, R","Cybersecurity, AI, Software Development"
+9,Henry9,Computer Science,"CSS, Statistics, JavaScript, Excel","Deep Learning, Robotics, Embedded Systems"
+10,Nina10,Electrical Eng.,"DL, C++, VHDL, MATLAB","Cybersecurity, Analytics, Embedded Systems"
+11,Grace11,Digital Electronics,"Python, MATLAB, HTML, Power BI, NLP",Automation
+12,Oscar12,Computer Applications,"VHDL, R",AI
+13,Jack13,Physics,"CSS, JavaScript",Cloud Computing
+14,Alice14,IT,"DL, IoT, NLP, SQL, Cybersecurity","AI, Analytics"
+15,Karen15,Physics,"VHDL, SQL, Python, C++",VLSI
+16,Leo16,Business Analytics,"TensorFlow, R, C++, Statistics",Cloud Computing
+17,Grace17,Mathematics,"Verilog, Power BI","Analytics, VLSI, Data Science"
+18,Oscar18,Digital Electronics,"Excel, DL, HTML, IoT, Power BI","Robotics, Deep Learning, AI"
+19,Tina19,IT,"Excel, VHDL, Power BI, Verilog, JavaScript","Machine Learning, Analytics, Automation"
+20,Henry20,Business Analytics,"C++, CSS, SQL","Automation, Software Development, Cybersecurity"
+21,Oscar21,Mathematics,"Arduino, Cloud, Statistics, Cybersecurity, CSS","Deep Learning, Robotics"
+22,Charlie22,Mechanical Eng.,"TensorFlow, C++, Excel","Embedded Systems, Cloud Computing, VLSI"
+23,Ivy23,Computer Applications,"TensorFlow, IoT","Cybersecurity, Analytics"
+24,Sam24,Mathematics,"Cloud, Verilog, JavaScript, Arduino, MATLAB","Embedded Systems, Robotics, Automation"
+25,Frank25,Digital Electronics,"NLP, Arduino",IoT
+26,Karen26,Mathematics,"Python, HTML, DL","Robotics, Machine Learning, Analytics"
+27,Diana27,Computer Applications,"TensorFlow, Python, Power BI, MATLAB","Deep Learning, Data Science"
+28,Oscar28,Mathematics,"Cloud, Verilog","Deep Learning, Data Science, Robotics"
+29,Sam29,Mathematics,"MATLAB, JavaScript",Cloud Computing
+30,Jack30,Digital Electronics,"C++, Cloud, TensorFlow, IoT","Cybersecurity, AI"
+31,Henry31,Electronics,"Power BI, Excel, Python",Robotics
+32,Charlie32,Mechanical Eng.,"HTML, C++, SQL, Verilog","Deep Learning, Software Development"
+33,Oscar33,Digital Electronics,"CSS, Arduino, Java, Statistics, Power BI","Deep Learning, Robotics, Analytics"
+34,Henry34,Physics,"Java, Power BI, Cloud, Arduino","Software Development, Robotics, Machine Learning"
+35,Jack35,Physics,"C++, Excel, MATLAB","Embedded Systems, Deep Learning"
+36,Ivy36,Computer Applications,"SQL, Verilog, MATLAB",IoT
+37,Karen37,Digital Electronics,"Python, NLP, Java, Excel, VHDL","Machine Learning, Analytics, Automation"
+38,Grace38,Mathematics,"C++, Power BI, Verilog","VLSI, Software Development, Analytics"
+39,Bob39,IT,"TensorFlow, ML, Statistics, CSS, DL","Embedded Systems, Analytics"
+40,Jack40,Electrical Eng.,"Java, Python","Software Development, Data Science, AI"
+41,Leo41,Mechanical Eng.,"DL, Statistics, Arduino, VHDL","IoT, Data Science, Analytics"
+42,Leo42,Mechanical Eng.,"VHDL, SQL, Statistics","Deep Learning, Data Science, Analytics"
+43,Karen43,Mathematics,"Excel, Python, MATLAB, TensorFlow","Embedded Systems, Deep Learning"
+44,Karen44,Electronics,"Verilog, NLP, MATLAB, Excel, Java",Automation
+45,Henry45,Mechanical Eng.,"Cybersecurity, Verilog, NLP","Robotics, Embedded Systems, Software Development"
+46,Quinn46,Mechanical Eng.,"C++, Excel, ML, R, VHDL","Cybersecurity, Automation, IoT"
+47,Oscar47,Electronics,"Cloud, Statistics, Excel, Python",Deep Learning
+48,Diana48,Mathematics,"Cloud, Excel, DL, Verilog, R",Robotics
+49,Nina49,Computer Applications,"IoT, Java, Power BI, Cybersecurity, ML","Embedded Systems, IoT"
+50,Charlie50,Business Analytics,"MATLAB, Statistics, DL, VHDL","Machine Learning, AI, Cybersecurity"
+51,Mona51,Digital Electronics,"Excel, Java, C++","Cybersecurity, Embedded Systems"
+52,Grace52,Mechanical Eng.,"Cybersecurity, NLP, CSS","Analytics, Embedded Systems, AI"
+53,Karen53,Computer Science,"MATLAB, Excel",Cybersecurity
+54,Henry54,Physics,"Arduino, Cybersecurity, SQL, HTML","Machine Learning, Cloud Computing, Software Development"
+55,Bob55,Electrical Eng.,"Statistics, C++","Analytics, IoT"
+56,Oscar56,Electronics,"Python, R, Verilog, Power BI, SQL","Machine Learning, Robotics, Data Science"
+57,Karen57,Mathematics,"TensorFlow, ML, JavaScript, R, CSS","Cloud Computing, Embedded Systems"
+58,Paul58,Mechanical Eng.,"Java, Cybersecurity, Arduino",Software Development
+59,Bob59,Mathematics,"Cybersecurity, NLP, VHDL, Python, TensorFlow","Embedded Systems, AI"
+60,Mona60,Mechanical Eng.,"JavaScript, VHDL, Statistics, ML",Machine Learning
+61,Karen61,Computer Science,"NLP, IoT",Cybersecurity
+62,Eva62,Business Analytics,"IoT, DL, Arduino, CSS",Automation
+63,Leo63,Business Analytics,"NLP, Java, Statistics, JavaScript, Arduino",IoT
+64,Tina64,Computer Applications,"Arduino, DL","Cybersecurity, IoT, Machine Learning"
+65,Nina65,Computer Science,"Python, R, Power BI, DL",IoT
+66,Charlie66,Mathematics,"Python, IoT, DL, Java, JavaScript","Deep Learning, VLSI, AI"
+67,Ivy67,Electronics,"CSS, C++, Cybersecurity, TensorFlow","Machine Learning, Software Development"
+68,Paul68,Business Analytics,"CSS, R, Cybersecurity, Arduino, TensorFlow","Robotics, Automation, Analytics"
+69,Ivy69,IT,"Python, Power BI","VLSI, AI, Analytics"
+70,Sam70,Business Analytics,"Python, Excel, Verilog, Arduino, Cybersecurity","Analytics, Data Science, Cybersecurity"
+71,Frank71,Electronics,"MATLAB, C++","Cloud Computing, Machine Learning, Deep Learning"
+72,Oscar72,Mathematics,"Statistics, Arduino, Cloud, VHDL","Software Development, Robotics"
+73,Eva73,Computer Applications,"Cloud, NLP, VHDL, ML, C++",Data Science
+74,Henry74,Mathematics,"TensorFlow, Cybersecurity","Automation, Robotics"
+75,Mona75,Physics,"Python, TensorFlow, SQL, Excel",Deep Learning
+76,Jack76,Mathematics,"Cybersecurity, DL, CSS, Excel, HTML",Cloud Computing
+77,Quinn77,Electronics,"Python, C++, Arduino, DL, MATLAB","Cybersecurity, Robotics"
+78,Paul78,Digital Electronics,"HTML, Cloud","Machine Learning, AI"
+79,Tina79,Business Analytics,"C++, HTML","Deep Learning, IoT"
+80,Henry80,Computer Applications,"DL, SQL",Cybersecurity
+81,Frank81,Mechanical Eng.,"SQL, Arduino, CSS, Cloud","Automation, Cloud Computing, VLSI"
+82,Nina82,Electrical Eng.,"HTML, VHDL, Statistics","Cloud Computing, Analytics, Machine Learning"
+83,Quinn83,Physics,"DL, ML, R, VHDL",Cloud Computing
+84,Grace84,Mathematics,"HTML, VHDL, R","Cybersecurity, Cloud Computing, Data Science"
+85,Eva85,Mathematics,"CSS, C++",VLSI
+86,Ivy86,Mathematics,"IoT, Verilog, Cybersecurity, Power BI, MATLAB","Data Science, Automation"
+87,Mona87,Computer Science,"DL, HTML, Cloud, ML, SQL",IoT
+88,Tina88,Electronics,"Excel, VHDL, C++","Automation, AI, VLSI"
+89,Sam89,Computer Science,"C++, TensorFlow, Power BI","Analytics, IoT"
+90,Grace90,Computer Science,"Cybersecurity, NLP, TensorFlow",Cybersecurity
+91,Leo91,Business Analytics,"Arduino, NLP, Cybersecurity","AI, VLSI"
+92,Oscar92,Computer Science,"Cloud, Cybersecurity","Analytics, Cybersecurity, Cloud Computing"
+93,Mona93,Computer Science,"VHDL, NLP",Cloud Computing
+94,Mona94,IT,"TensorFlow, HTML, Java, Cybersecurity, DL","Robotics, IoT, Software Development"
+95,Quinn95,Mechanical Eng.,"Java, Arduino, DL, Cybersecurity, Power BI","Analytics, Robotics, Deep Learning"
+96,Tina96,Computer Applications,"TensorFlow, IoT","Machine Learning, Cloud Computing, Automation"
+97,Rita97,Electrical Eng.,"Cybersecurity, SQL, Arduino, MATLAB","IoT, Embedded Systems"
+98,Mona98,Mathematics,"CSS, Java, Statistics, Excel","Data Science, Cloud Computing"
+99,Quinn99,Computer Applications,"IoT, Excel, R, Statistics, HTML",Cybersecurity
+100,Nina100,Business Analytics,"Verilog, TensorFlow, VHDL, SQL, C++","Robotics, Analytics, Automation"
+101,Diana101,Computer Science,"TensorFlow, Cloud, SQL, MATLAB, ML","Embedded Systems, Data Science, Cloud Computing"
+102,Rita102,Electronics,"Excel, NLP, VHDL","Machine Learning, Software Development"
+103,Sam103,IT,"Java, ML","Analytics, Data Science, Automation"
+104,Nina104,Computer Science,"NLP, R, CSS, VHDL, Verilog","Machine Learning, Cloud Computing, Automation"
+105,Oscar105,Digital Electronics,"R, IoT, SQL, Verilog, Cloud","Machine Learning, Data Science, Deep Learning"
+106,Leo106,Business Analytics,"NLP, Excel",Cybersecurity
+107,Quinn107,Business Analytics,"MATLAB, ML, Cybersecurity, Arduino",Data Science
+108,Jack108,Physics,"JavaScript, Cloud, IoT, Statistics","VLSI, Cloud Computing, Automation"
+109,Charlie109,Electrical Eng.,"Arduino, JavaScript, HTML","Analytics, VLSI, AI"
+110,Bob110,Computer Science,"Excel, Verilog, VHDL","Embedded Systems, Cybersecurity"
+111,Sam111,Computer Applications,"Cloud, R",VLSI
+112,Karen112,IT,"C++, ML, Python, Cybersecurity","Analytics, IoT, Machine Learning"
+113,Alice113,Digital Electronics,"Cloud, TensorFlow, VHDL, ML, MATLAB",Software Development
+114,Grace114,Mechanical Eng.,"CSS, Excel, R, Python",AI
+115,Mona115,Business Analytics,"Cloud, Verilog, IoT, JavaScript","Analytics, Automation"
+116,Ivy116,Computer Science,"ML, Verilog","Cybersecurity, Cloud Computing, Analytics"
+117,Ivy117,Computer Science,"VHDL, HTML, C++, Cybersecurity","Deep Learning, Robotics"
+118,Grace118,IT,"CSS, R, Statistics",Embedded Systems
+119,Nina119,Computer Applications,"ML, DL, Power BI, VHDL",AI
+120,Grace120,Physics,"Power BI, NLP, Arduino, R, IoT",Cybersecurity
+121,Nina121,Electrical Eng.,"ML, JavaScript","IoT, Cloud Computing, Automation"
+122,Oscar122,Mathematics,"Verilog, TensorFlow, VHDL","Embedded Systems, Data Science, Cybersecurity"
+123,Mona123,Business Analytics,"R, MATLAB, SQL","Cloud Computing, Data Science, AI"
+124,Frank124,Computer Applications,"VHDL, Python, HTML, C++","Robotics, Cybersecurity, AI"
+125,Charlie125,Digital Electronics,"CSS, Arduino, NLP","VLSI, Robotics, Automation"
+126,Charlie126,Computer Applications,"HTML, Arduino","IoT, Cybersecurity"
+127,Nina127,Mechanical Eng.,"TensorFlow, C++, ML, Java","Machine Learning, IoT"
+128,Quinn128,Electronics,"HTML, Java, IoT, Cybersecurity","Machine Learning, Automation"
+129,Mona129,Mathematics,"C++, CSS",Software Development
+130,Charlie130,Computer Science,"Arduino, Cloud, NLP, Cybersecurity, MATLAB","VLSI, Embedded Systems"
+131,Karen131,Business Analytics,"ML, MATLAB, JavaScript","Software Development, Deep Learning"
+132,Nina132,Computer Applications,"R, Statistics, C++, NLP, Cybersecurity","VLSI, Cybersecurity"
+133,Frank133,Computer Science,"Arduino, CSS",Machine Learning
+134,Paul134,IT,"R, MATLAB, C++",Deep Learning
+135,Tina135,Mathematics,"JavaScript, R, C++, MATLAB",Cloud Computing
+136,Oscar136,Mechanical Eng.,"TensorFlow, Arduino, NLP, CSS, SQL","IoT, Analytics"
+137,Henry137,Computer Science,"MATLAB, VHDL, TensorFlow, Excel, Java",Robotics
+138,Charlie138,Mechanical Eng.,"TensorFlow, Cybersecurity, JavaScript, R, VHDL","Embedded Systems, Data Science, AI"
+139,Quinn139,Electrical Eng.,"Cybersecurity, Java","Software Development, Robotics, Automation"
+140,Nina140,Mechanical Eng.,"JavaScript, Power BI, DL, MATLAB",Cloud Computing
+141,Tina141,Business Analytics,"Java, SQL, Power BI, MATLAB, C++","AI, Embedded Systems"
+142,Leo142,Computer Science,"NLP, CSS, Java, Python, HTML","Deep Learning, AI, Automation"
+143,Jack143,Computer Science,"Java, TensorFlow, Power BI, VHDL, Excel","Cybersecurity, Software Development"
+144,Quinn144,IT,"SQL, HTML, ML, MATLAB","IoT, Cloud Computing"
+145,Tina145,Computer Science,"NLP, Arduino","Robotics, Data Science, Analytics"
+146,Quinn146,IT,"HTML, R, NLP, Statistics, MATLAB","Cybersecurity, Cloud Computing"
+147,Diana147,Mechanical Eng.,"Verilog, Python, Java, R","Data Science, IoT"
+148,Sam148,Business Analytics,"Java, SQL, Excel","Cloud Computing, AI"
+149,Jack149,Electrical Eng.,"TensorFlow, JavaScript, R, Java, VHDL","Robotics, VLSI, Cybersecurity"
+150,Rita150,IT,"TensorFlow, Python, Statistics",Machine Learning
+151,Quinn151,Mechanical Eng.,"Python, DL, Excel, Cloud, Verilog","Deep Learning, AI, Analytics"
+152,Alice152,IT,"DL, HTML, NLP","Cloud Computing, Software Development, VLSI"
+153,Karen153,IT,"IoT, MATLAB, Arduino, Cloud","Cybersecurity, IoT, Machine Learning"
+154,Oscar154,Business Analytics,"R, Arduino","Machine Learning, VLSI"
+155,Rita155,Business Analytics,"TensorFlow, Arduino, CSS, Power BI",VLSI
+156,Rita156,IT,"R, IoT, Cloud, Python, Verilog","Automation, VLSI, Robotics"
+157,Leo157,Mathematics,"R, Power BI, HTML, NLP, Arduino","Analytics, Machine Learning, Robotics"
+158,Paul158,Electronics,"NLP, Cloud",Cybersecurity
+159,Grace159,IT,"Statistics, Python, SQL","Analytics, Robotics"
+160,Ivy160,Physics,"R, ML, Python, TensorFlow","VLSI, Analytics"
+161,Mona161,Electronics,"C++, Arduino, Python",Cloud Computing
+162,Quinn162,Digital Electronics,"Excel, C++, MATLAB, Power BI",Machine Learning
+163,Charlie163,IT,"DL, JavaScript, Arduino, TensorFlow","Embedded Systems, Cloud Computing"
+164,Sam164,Mathematics,"MATLAB, Excel",IoT
+165,Ivy165,IT,"VHDL, Cybersecurity, Excel","Cybersecurity, Software Development, Data Science"
+166,Paul166,Computer Science,"SQL, R, NLP","Embedded Systems, Cybersecurity"
+167,Quinn167,Computer Science,"C++, TensorFlow, Cloud, CSS, Excel",Software Development
+168,Karen168,Business Analytics,"CSS, R","Embedded Systems, Cloud Computing"
+169,Leo169,Mechanical Eng.,"Cybersecurity, Power BI","AI, Analytics"
+170,Quinn170,Digital Electronics,"R, CSS, Statistics, IoT","Automation, Cloud Computing, AI"
+171,Quinn171,Business Analytics,"NLP, Excel, TensorFlow, SQL","Machine Learning, Automation, Embedded Systems"
+172,Leo172,Electrical Eng.,"Statistics, IoT, JavaScript","AI, Software Development"
+173,Sam173,IT,"JavaScript, VHDL, C++, R, Python","Analytics, IoT, Data Science"
+174,Nina174,Mathematics,"DL, Verilog, Java, TensorFlow, Python","Machine Learning, Deep Learning"
+175,Leo175,Electrical Eng.,"VHDL, DL, NLP, MATLAB","VLSI, Data Science"
+176,Mona176,Mechanical Eng.,"Cloud, R, HTML",AI
+177,Oscar177,Mechanical Eng.,"Power BI, Cloud, Arduino, TensorFlow","Data Science, Embedded Systems"
+178,Bob178,Digital Electronics,"C++, Statistics, Java","Deep Learning, Data Science"
+179,Grace179,IT,"MATLAB, Verilog, TensorFlow, IoT, C++",Deep Learning
+180,Diana180,Mechanical Eng.,"SQL, Arduino, TensorFlow","Data Science, Robotics"
+181,Ivy181,Computer Science,"Cybersecurity, SQL, Python, Java","Analytics, Machine Learning"
+182,Henry182,Mathematics,"Power BI, C++, Python, CSS, HTML","Robotics, Cloud Computing"
+183,Ivy183,Electrical Eng.,"DL, VHDL","Embedded Systems, Cybersecurity, Deep Learning"
+184,Paul184,IT,"Power BI, C++, DL","Machine Learning, Data Science"
+185,Jack185,Business Analytics,"HTML, Statistics","Analytics, Deep Learning"
+186,Grace186,Electrical Eng.,"Python, Statistics, HTML","Automation, VLSI"
+187,Mona187,Digital Electronics,"HTML, ML, Java, Python",Robotics
+188,Eva188,Mechanical Eng.,"Java, C++, Verilog, ML, Power BI","Embedded Systems, IoT"
+189,Henry189,Physics,"JavaScript, VHDL, MATLAB","Machine Learning, Robotics"
+190,Ivy190,IT,"Arduino, MATLAB","AI, IoT"
+191,Diana191,Physics,"Java, Cloud, Power BI, JavaScript, Python",Embedded Systems
+192,Charlie192,IT,"VHDL, ML, C++, IoT",Machine Learning
+193,Frank193,Electronics,"CSS, ML, Python","Data Science, Automation, Software Development"
+194,Leo194,Business Analytics,"CSS, IoT, R, ML, Java","Analytics, Deep Learning, Robotics"
+195,Tina195,Computer Science,"Java, TensorFlow, Cloud, MATLAB",Machine Learning
+196,Jack196,Digital Electronics,"R, TensorFlow, DL, Cybersecurity, NLP",Cybersecurity
+197,Diana197,Physics,"Excel, Java, Python, NLP, C++",Automation
+198,Charlie198,Mechanical Eng.,"JavaScript, C++, VHDL, IoT, MATLAB",Cybersecurity
+199,Leo199,Physics,"Verilog, Python, VHDL, HTML","VLSI, Robotics"
+200,Charlie200,Computer Applications,"Arduino, Cybersecurity, Excel, R, HTML",Deep Learning
+201,Nina201,Electrical Eng.,"SQL, Power BI","Data Science, VLSI, Robotics"
+202,Grace202,Electrical Eng.,"MATLAB, Python, Verilog, R",Software Development
+203,Henry203,Computer Applications,"Power BI, C++, Excel, HTML","Analytics, IoT, Software Development"
+204,Quinn204,Electrical Eng.,"Cloud, C++, TensorFlow",Automation
+205,Diana205,Electrical Eng.,"Excel, VHDL, Java, HTML, Verilog","Analytics, Deep Learning"
+206,Paul206,Mechanical Eng.,"NLP, Verilog, Statistics, Arduino","Automation, VLSI, Deep Learning"
+207,Nina207,Business Analytics,"Arduino, VHDL, Cloud, Verilog, IoT","Data Science, IoT"
+208,Quinn208,IT,"IoT, ML, Statistics",Analytics
+209,Sam209,Mathematics,"TensorFlow, DL","Automation, Data Science, Embedded Systems"
+210,Nina210,Business Analytics,"JavaScript, SQL, Cloud","Machine Learning, Embedded Systems"
+211,Rita211,Physics,"VHDL, NLP, Power BI","Software Development, Machine Learning, Cloud Computing"
+212,Oscar212,Computer Applications,"Cloud, CSS, Java",Robotics
+213,Mona213,Electronics,"C++, R, HTML, DL","Cloud Computing, Automation"
+214,Diana214,Physics,"Verilog, CSS, Power BI","Data Science, Cybersecurity"
+215,Oscar215,Computer Applications,"Power BI, ML, IoT",Automation
+216,Nina216,Physics,"Excel, Verilog","Machine Learning, IoT, Deep Learning"
+217,Charlie217,Computer Applications,"Cloud, Power BI, HTML","IoT, Software Development"
+218,Leo218,Physics,"Java, R, DL, TensorFlow, Excel","Machine Learning, Software Development, AI"
+219,Leo219,Mechanical Eng.,"Verilog, Cloud, VHDL, Power BI, CSS","Robotics, AI"
+220,Frank220,Mathematics,"Python, Verilog, Power BI",Cloud Computing
+221,Tina221,Electrical Eng.,"Power BI, Cybersecurity","Machine Learning, Robotics, Cybersecurity"
+222,Ivy222,Mathematics,"NLP, VHDL, DL","Software Development, Data Science"
+223,Jack223,Electrical Eng.,"TensorFlow, CSS, IoT",Cybersecurity
+224,Leo224,Business Analytics,"CSS, HTML, IoT",Software Development
+225,Charlie225,Mechanical Eng.,"Power BI, Cybersecurity, MATLAB, HTML","Software Development, AI"
+226,Charlie226,IT,"Cybersecurity, Cloud","Analytics, Cloud Computing"
+227,Mona227,Mathematics,"DL, MATLAB, NLP","Cloud Computing, Automation"
+228,Ivy228,Mechanical Eng.,"Verilog, C++, VHDL, IoT, JavaScript","Machine Learning, Automation, Cloud Computing"
+229,Eva229,Physics,"TensorFlow, Python, Statistics",Software Development
+230,Paul230,Mechanical Eng.,"Cybersecurity, CSS, VHDL","AI, Cybersecurity, Software Development"
+231,Alice231,Mathematics,"Arduino, SQL, CSS, Cloud, Excel","Cloud Computing, VLSI, Machine Learning"
+232,Eva232,Mathematics,"JavaScript, CSS, ML, NLP",Automation
+233,Mona233,Electrical Eng.,"Excel, MATLAB","Embedded Systems, Automation, Software Development"
+234,Tina234,IT,"MATLAB, HTML, Cloud, R, SQL","AI, Data Science"
+235,Diana235,Mathematics,"C++, ML, DL, Cloud","IoT, Machine Learning"
+236,Tina236,Physics,"HTML, SQL, Cybersecurity, JavaScript","AI, Embedded Systems, Analytics"
+237,Nina237,IT,"Python, SQL, Arduino, VHDL","Analytics, Machine Learning, Cloud Computing"
+238,Frank238,IT,"MATLAB, JavaScript, TensorFlow",VLSI
+239,Paul239,Electronics,"TensorFlow, C++","Deep Learning, Cloud Computing, AI"
+240,Paul240,Digital Electronics,"C++, SQL, MATLAB","Deep Learning, Robotics"
+241,Mona241,Electronics,"Statistics, CSS, Arduino","Robotics, Cloud Computing, IoT"
+242,Alice242,Electronics,"TensorFlow, Verilog, Statistics","Data Science, AI, Machine Learning"
+243,Sam243,Mathematics,"Python, Power BI, IoT","Cloud Computing, AI, Analytics"
+244,Tina244,Mathematics,"DL, Java",VLSI
+245,Mona245,Mathematics,"JavaScript, HTML, TensorFlow, NLP, CSS","Analytics, Cybersecurity"
+246,Bob246,Business Analytics,"Python, Excel, CSS, TensorFlow, R",Automation
+247,Eva247,Business Analytics,"Arduino, TensorFlow, Cybersecurity","Software Development, Cybersecurity, Cloud Computing"
+248,Charlie248,Digital Electronics,"NLP, Arduino, SQL, TensorFlow, IoT","Cybersecurity, Software Development"
+249,Ivy249,Mathematics,"Python, Excel, Java, Verilog, Arduino","AI, IoT, Software Development"
+250,Grace250,Digital Electronics,"ML, Excel, C++, Cloud, Verilog","VLSI, Cloud Computing"
+251,Mona251,Digital Electronics,"TensorFlow, Power BI","Deep Learning, Data Science"
+252,Nina252,Mathematics,"SQL, ML, CSS, Arduino, Excel",VLSI
+253,Sam253,IT,"R, IoT, Power BI, ML","Cybersecurity, Robotics, VLSI"
+254,Alice254,Physics,"Excel, R, SQL, TensorFlow, Cloud","Embedded Systems, Machine Learning"
+255,Frank255,Mathematics,"IoT, TensorFlow, JavaScript, Python, Arduino","AI, Cybersecurity"
+256,Quinn256,Physics,"Statistics, VHDL, R, TensorFlow, DL","VLSI, Analytics"
+257,Grace257,Mechanical Eng.,"Cloud, VHDL, SQL, TensorFlow","VLSI, Software Development"
+258,Mona258,Mechanical Eng.,"Statistics, VHDL, Excel",Cloud Computing
+259,Jack259,Mathematics,"CSS, Cloud, ML, Power BI, HTML","Embedded Systems, Deep Learning, Machine Learning"
+260,Leo260,Computer Applications,"JavaScript, Java, Excel, ML, MATLAB","Embedded Systems, Software Development"
+261,Karen261,Physics,"Excel, TensorFlow, JavaScript","Robotics, Automation"
+262,Nina262,Mechanical Eng.,"Python, DL, R, Cybersecurity, ML","Robotics, Embedded Systems"
+263,Ivy263,Computer Science,"Power BI, R, CSS, TensorFlow, JavaScript","Cybersecurity, Deep Learning"
+264,Diana264,IT,"Power BI, DL, Verilog, SQL, VHDL",Deep Learning
+265,Karen265,Digital Electronics,"JavaScript, MATLAB, Verilog","Cybersecurity, IoT, Software Development"
+266,Ivy266,Computer Science,"IoT, JavaScript","Automation, VLSI"
+267,Alice267,Electronics,"TensorFlow, R, Java","Cloud Computing, Automation"
+268,Tina268,Electronics,"SQL, DL","Cybersecurity, Software Development, IoT"
+269,Quinn269,Electrical Eng.,"Python, Arduino, Statistics","Analytics, Software Development, Data Science"
+270,Leo270,Mechanical Eng.,"NLP, R","Deep Learning, Automation, VLSI"
+271,Quinn271,Physics,"VHDL, MATLAB, HTML",VLSI
+272,Oscar272,Business Analytics,"Arduino, SQL","VLSI, Deep Learning, Embedded Systems"
+273,Paul273,Digital Electronics,"Java, Python, JavaScript","Software Development, Cybersecurity"
+274,Rita274,Computer Science,"TensorFlow, Java, Verilog, JavaScript, MATLAB",VLSI
+275,Rita275,Computer Science,"Arduino, DL","Data Science, Robotics, Cybersecurity"
+276,Jack276,Computer Science,"VHDL, SQL, R, Statistics, Cybersecurity","AI, Analytics"
+277,Oscar277,Mathematics,"Arduino, IoT","Cybersecurity, Embedded Systems, Software Development"
+278,Leo278,Mechanical Eng.,"MATLAB, NLP, CSS, Arduino, TensorFlow","AI, Data Science"
+279,Henry279,Mathematics,"Cybersecurity, Power BI, IoT, Statistics",Embedded Systems
+280,Jack280,IT,"Cybersecurity, JavaScript, Power BI, Java",Cybersecurity
+281,Jack281,Electrical Eng.,"VHDL, Python, Cloud","Deep Learning, Data Science"
+282,Nina282,Electrical Eng.,"C++, SQL","Data Science, Analytics"
+283,Rita283,Mechanical Eng.,"Cloud, Python, Power BI, VHDL","IoT, Robotics, Cybersecurity"
+284,Nina284,Electrical Eng.,"NLP, Arduino, Power BI","Automation, Robotics, Analytics"
+285,Bob285,Mathematics,"TensorFlow, Java, JavaScript, MATLAB, VHDL",Embedded Systems
+286,Oscar286,Computer Applications,"JavaScript, Excel, Cloud, Arduino, TensorFlow","Data Science, VLSI, Deep Learning"
+287,Grace287,Mechanical Eng.,"Arduino, R, Cybersecurity, JavaScript, IoT","Cloud Computing, Automation, Embedded Systems"
+288,Karen288,Digital Electronics,"NLP, HTML","Deep Learning, AI"
+289,Henry289,Electronics,"SQL, DL, Verilog, VHDL, HTML",AI
+290,Diana290,Mechanical Eng.,"Verilog, Python, ML, TensorFlow",Software Development
+291,Karen291,IT,"NLP, ML",AI
+292,Jack292,Business Analytics,"Cybersecurity, Python, Power BI, ML, TensorFlow",AI
+293,Charlie293,Computer Science,"Cybersecurity, SQL","Embedded Systems, Robotics"
+294,Diana294,Business Analytics,"NLP, JavaScript, IoT, SQL, VHDL","Cybersecurity, Analytics, IoT"
+295,Frank295,Physics,"CSS, TensorFlow, HTML, SQL","Cybersecurity, Automation, Analytics"
+296,Rita296,Computer Applications,"VHDL, Power BI","Software Development, Robotics, Automation"
+297,Oscar297,Mathematics,"TensorFlow, SQL, Cybersecurity, Python, C++","Cloud Computing, Deep Learning, Analytics"
+298,Frank298,Electronics,"Power BI, CSS, HTML","Cloud Computing, Embedded Systems, VLSI"
+299,Diana299,Digital Electronics,"C++, Python, NLP, DL","AI, Cloud Computing, Machine Learning"
+300,Rita300,Computer Applications,"C++, CSS",IoT
+301,Leo301,Computer Science,"IoT, Excel, VHDL, Power BI",IoT
+302,Eva302,Physics,"Verilog, Python, C++","Embedded Systems, IoT, Automation"
+303,Oscar303,Business Analytics,"Java, Verilog",Analytics
+304,Paul304,Mathematics,"R, SQL, MATLAB","IoT, Cybersecurity, VLSI"
+305,Mona305,IT,"R, VHDL, TensorFlow",Cloud Computing
+306,Karen306,IT,"Python, NLP, CSS, JavaScript, Power BI",VLSI
+307,Leo307,Computer Applications,"Excel, TensorFlow",Cybersecurity
+308,Sam308,Computer Applications,"Cybersecurity, Excel, R, Arduino, TensorFlow",Deep Learning
+309,Mona309,Electronics,"R, VHDL, HTML","Cloud Computing, Cybersecurity"
+310,Quinn310,Mathematics,"JavaScript, Java","Deep Learning, Software Development, Robotics"
+311,Alice311,Mechanical Eng.,"SQL, MATLAB, Cloud, C++",Automation
+312,Oscar312,Physics,"JavaScript, ML, Java, SQL","Automation, Robotics"
+313,Leo313,Electrical Eng.,"C++, CSS, TensorFlow, NLP, Arduino","Cloud Computing, VLSI"
+314,Jack314,Mechanical Eng.,"Cloud, Verilog, IoT, Statistics, CSS",Cloud Computing
+315,Sam315,Electronics,"Java, Cloud","Data Science, Machine Learning, Cloud Computing"
+316,Eva316,IT,"Excel, TensorFlow",Deep Learning
+317,Oscar317,Electronics,"Power BI, R, Cybersecurity","Software Development, Analytics, VLSI"
+318,Leo318,Electrical Eng.,"TensorFlow, IoT, Power BI","Software Development, Cloud Computing"
+319,Alice319,Electronics,"Statistics, Java, JavaScript, R",VLSI
+320,Tina320,Computer Applications,"TensorFlow, Statistics, JavaScript",Cloud Computing
+321,Oscar321,Electronics,"R, Statistics","AI, Deep Learning, Analytics"
+322,Charlie322,Electronics,"CSS, ML","Automation, Cloud Computing"
+323,Henry323,Electronics,"Cybersecurity, DL",Machine Learning
+324,Charlie324,Physics,"Verilog, Power BI, Java, IoT, ML","IoT, Machine Learning, Analytics"
+325,Diana325,Mechanical Eng.,"Java, Excel","Embedded Systems, VLSI"
+326,Bob326,Business Analytics,"DL, CSS, MATLAB, Statistics","Software Development, Data Science"
+327,Oscar327,Mathematics,"HTML, MATLAB, SQL",Data Science
+328,Mona328,Business Analytics,"MATLAB, Cloud",Software Development
+329,Nina329,Physics,"Cybersecurity, Excel, Verilog","Robotics, Data Science"
+330,Mona330,IT,"NLP, Cloud","Software Development, VLSI"
+331,Bob331,Computer Applications,"JavaScript, CSS, ML, VHDL, HTML","VLSI, Cloud Computing, Robotics"
+332,Nina332,Electronics,"TensorFlow, HTML, JavaScript, Excel","Software Development, Cybersecurity, Analytics"
+333,Eva333,Computer Science,"R, HTML","Analytics, Robotics, Deep Learning"
+334,Diana334,IT,"Arduino, C++, IoT","Cybersecurity, Analytics, Cloud Computing"
+335,Karen335,Mechanical Eng.,"CSS, Power BI","Analytics, Automation, Cybersecurity"
+336,Ivy336,Digital Electronics,"NLP, VHDL, R, SQL","Machine Learning, Data Science"
+337,Sam337,IT,"CSS, C++, Power BI, ML","Deep Learning, Machine Learning, Cloud Computing"
+338,Rita338,Mechanical Eng.,"Java, Statistics, NLP","AI, Analytics"
+339,Oscar339,Electronics,"Verilog, DL",Deep Learning
+340,Frank340,Computer Science,"Excel, SQL, Cloud, JavaScript, ML","Embedded Systems, Machine Learning, Cloud Computing"
+341,Ivy341,Mathematics,"C++, CSS","Analytics, Machine Learning"
+342,Bob342,Computer Science,"Verilog, R, IoT, NLP","Cybersecurity, Embedded Systems"
+343,Sam343,Electronics,"Java, CSS","Cloud Computing, Automation, Machine Learning"
+344,Mona344,Mathematics,"Arduino, JavaScript, Java, Excel","IoT, Machine Learning"
+345,Bob345,Mechanical Eng.,"Power BI, TensorFlow",Automation
+346,Rita346,IT,"CSS, IoT, JavaScript, Python, Arduino","VLSI, Machine Learning, Embedded Systems"
+347,Tina347,Electronics,"Verilog, MATLAB, HTML, DL, Excel","Software Development, Deep Learning, IoT"
+348,Nina348,Computer Applications,"MATLAB, NLP",VLSI
+349,Frank349,Mathematics,"Verilog, DL","Embedded Systems, Analytics"
+350,Mona350,Mechanical Eng.,"TensorFlow, Arduino, HTML, ML, Cybersecurity",Data Science
+351,Leo351,Business Analytics,"Cloud, Java, IoT, Python, ML",Cybersecurity
+352,Frank352,Electronics,"ML, Power BI","Cloud Computing, Cybersecurity"
+353,Eva353,Digital Electronics,"MATLAB, Arduino","Automation, Machine Learning"
+354,Mona354,IT,"CSS, Statistics, ML, Arduino","IoT, Deep Learning, Machine Learning"
+355,Sam355,Electronics,"MATLAB, HTML, TensorFlow, Excel","Embedded Systems, Deep Learning"
+356,Jack356,Mathematics,"JavaScript, DL, Power BI, MATLAB, Verilog","Cloud Computing, Deep Learning"
+357,Karen357,IT,"IoT, Verilog",Cloud Computing
+358,Frank358,Computer Science,"Python, TensorFlow, JavaScript, Excel, Power BI","Embedded Systems, Analytics"
+359,Charlie359,Electronics,"MATLAB, Cybersecurity, IoT, CSS, JavaScript","Software Development, Deep Learning"
+360,Karen360,Electrical Eng.,"SQL, R, Statistics, Excel","Robotics, Machine Learning"
+361,Rita361,Business Analytics,"Java, Statistics, IoT, CSS, HTML","Software Development, AI, Cloud Computing"
+362,Diana362,Physics,"Verilog, HTML, Cloud, C++, Excel","Data Science, Cybersecurity"
+363,Oscar363,Mathematics,"TensorFlow, NLP","Embedded Systems, Software Development"
+364,Bob364,Electronics,"Cloud, IoT, SQL, JavaScript",Robotics
+365,Sam365,Computer Science,"TensorFlow, Python, SQL","Data Science, Embedded Systems"
+366,Ivy366,Physics,"Excel, IoT, R",AI
+367,Paul367,IT,"CSS, HTML","AI, Data Science, Software Development"
+368,Grace368,Mathematics,"C++, IoT","Cybersecurity, VLSI, Software Development"
+369,Ivy369,Digital Electronics,"Power BI, Java, HTML, Excel, C++",IoT
+370,Ivy370,Electrical Eng.,"Statistics, VHDL, Power BI, NLP",VLSI
+371,Sam371,Computer Applications,"MATLAB, ML, CSS, SQL, Verilog",Automation
+372,Bob372,Electrical Eng.,"Python, Java, R",Robotics
+373,Charlie373,Physics,"Arduino, VHDL, C++, CSS, JavaScript",Machine Learning
+374,Jack374,Mechanical Eng.,"Cybersecurity, Cloud","Machine Learning, AI, Analytics"
+375,Charlie375,Computer Applications,"Cybersecurity, HTML","Software Development, Analytics"
+376,Nina376,Mechanical Eng.,"C++, Python","VLSI, AI"
+377,Henry377,Physics,"HTML, Cybersecurity, Arduino, TensorFlow","IoT, VLSI"
+378,Ivy378,Electronics,"Cybersecurity, Statistics","Deep Learning, Analytics, Cybersecurity"
+379,Karen379,Electronics,"Python, C++, DL, Cloud, SQL","Automation, Software Development, AI"
+380,Paul380,Physics,"Cloud, R, Arduino, Python, NLP","Cybersecurity, Deep Learning"
+381,Oscar381,Business Analytics,"MATLAB, Python, Java","Deep Learning, AI"
+382,Alice382,Business Analytics,"Cybersecurity, DL, HTML, SQL, Excel","Cybersecurity, Deep Learning"
+383,Tina383,Computer Science,"CSS, Excel","AI, Cybersecurity"
+384,Quinn384,Computer Science,"C++, IoT",Cybersecurity
+385,Ivy385,Physics,"VHDL, Arduino, Verilog","Cybersecurity, Software Development, Analytics"
+386,Paul386,Mechanical Eng.,"DL, JavaScript",IoT
+387,Eva387,Mechanical Eng.,"SQL, Verilog, HTML, VHDL, R","Data Science, Analytics, AI"
+388,Eva388,Electrical Eng.,"Cybersecurity, VHDL, TensorFlow, Cloud, HTML","Robotics, Automation, Software Development"
+389,Henry389,IT,"SQL, R, HTML, MATLAB, Power BI","Analytics, Automation, VLSI"
+390,Eva390,Electronics,"Python, R","IoT, Data Science, Deep Learning"
+391,Sam391,Mathematics,"Arduino, Verilog","VLSI, Robotics"
+392,Mona392,Mathematics,"Power BI, Excel, VHDL, Python, IoT",IoT
+393,Henry393,Electrical Eng.,"Cloud, Power BI, JavaScript","IoT, Analytics"
+394,Bob394,Computer Science,"Power BI, CSS, IoT, C++, Python","Data Science, Machine Learning"
+395,Sam395,Electronics,"NLP, JavaScript, MATLAB","Embedded Systems, Software Development"
+396,Karen396,IT,"R, HTML, MATLAB, Java","Software Development, Data Science"
+397,Henry397,IT,"Power BI, C++, Java, JavaScript, Cybersecurity",IoT
+398,Tina398,Physics,"SQL, MATLAB","IoT, VLSI"
+399,Rita399,Mathematics,"Cloud, ML, Verilog, Statistics","Machine Learning, Automation"
+400,Grace400,Digital Electronics,"Power BI, JavaScript, C++, Java, NLP","Embedded Systems, Automation"
+401,Charlie401,Mathematics,"Python, R, SQL","Data Science, Automation"
+402,Rita402,Computer Applications,"SQL, Statistics, JavaScript","AI, IoT, Cybersecurity"
+403,Frank403,Digital Electronics,"IoT, Statistics","Automation, Analytics"
+404,Leo404,Digital Electronics,"Power BI, C++, ML, Java, IoT","Software Development, Deep Learning"
+405,Alice405,Physics,"Cybersecurity, ML, SQL",Software Development
+406,Charlie406,Computer Science,"Cybersecurity, Power BI, DL, ML","Analytics, Automation, Machine Learning"
+407,Leo407,Computer Applications,"Arduino, DL, SQL, TensorFlow","IoT, Embedded Systems"
+408,Frank408,Computer Applications,"VHDL, HTML",Deep Learning
+409,Ivy409,Computer Science,"Cybersecurity, HTML, Statistics, MATLAB, NLP","IoT, Robotics"
+410,Grace410,Physics,"Excel, JavaScript",Automation
+411,Henry411,Mechanical Eng.,"Java, Cloud, HTML, MATLAB",Analytics
+412,Grace412,Mathematics,"HTML, R, DL","Software Development, Automation"
+413,Nina413,Electronics,"VHDL, Verilog, Python","Robotics, Machine Learning"
+414,Ivy414,Business Analytics,"TensorFlow, NLP, Statistics, Excel, VHDL","Cybersecurity, Cloud Computing"
+415,Grace415,Business Analytics,"C++, Excel, MATLAB, SQL","Software Development, Cloud Computing, Deep Learning"
+416,Charlie416,Electrical Eng.,"MATLAB, Verilog, Java, DL","Machine Learning, Automation"
+417,Diana417,Computer Applications,"JavaScript, SQL, NLP","Machine Learning, Analytics, Deep Learning"
+418,Alice418,Electrical Eng.,"Excel, IoT, Statistics",Automation
+419,Nina419,IT,"TensorFlow, HTML, Cloud","Analytics, Robotics"
+420,Henry420,IT,"HTML, VHDL, ML","Embedded Systems, VLSI, Deep Learning"
+421,Jack421,IT,"Java, TensorFlow, NLP, Arduino, JavaScript","Deep Learning, Machine Learning, Robotics"
+422,Ivy422,Business Analytics,"Excel, DL",Deep Learning
+423,Karen423,Computer Science,"Java, Cloud, C++, HTML, DL",IoT
+424,Oscar424,Electrical Eng.,"Statistics, JavaScript, IoT, ML, SQL","IoT, Embedded Systems"
+425,Oscar425,Computer Science,"Java, Verilog",Data Science
+426,Paul426,Electrical Eng.,"Python, MATLAB","Deep Learning, Analytics"
+427,Henry427,Digital Electronics,"C++, Verilog, HTML",Data Science
+428,Eva428,Mathematics,"Python, TensorFlow, Excel, Statistics","Embedded Systems, Data Science, Cloud Computing"
+429,Alice429,Physics,"IoT, VHDL, C++, MATLAB","Robotics, Software Development"
+430,Alice430,IT,"NLP, Verilog","IoT, Machine Learning"
+431,Eva431,Business Analytics,"Power BI, JavaScript, ML, TensorFlow","Cloud Computing, Automation, Robotics"
+432,Bob432,Business Analytics,"Cybersecurity, SQL, Verilog, ML, HTML",IoT
+433,Oscar433,Digital Electronics,"SQL, NLP","Machine Learning, Software Development"
+434,Alice434,Computer Applications,"R, NLP, Cloud, C++",Embedded Systems
+435,Tina435,Computer Applications,"JavaScript, VHDL, IoT, Python","VLSI, Automation"
+436,Henry436,Physics,"JavaScript, NLP, Verilog, Arduino, SQL","Automation, Machine Learning, AI"
+437,Mona437,Business Analytics,"CSS, IoT, C++","Software Development, Deep Learning"
+438,Quinn438,Computer Science,"TensorFlow, MATLAB, VHDL","AI, Cybersecurity"
+439,Oscar439,Computer Applications,"Arduino, Python, Verilog, TensorFlow","AI, Cloud Computing, Data Science"
+440,Tina440,Computer Applications,"CSS, NLP, Arduino","Machine Learning, Data Science"
+441,Leo441,Computer Applications,"Excel, R, SQL, IoT, Arduino","Automation, Analytics"
+442,Oscar442,Business Analytics,"DL, IoT, NLP","AI, IoT"
+443,Sam443,Computer Applications,"Java, SQL, TensorFlow, ML, IoT","Machine Learning, Deep Learning, VLSI"
+444,Paul444,Business Analytics,"IoT, TensorFlow, VHDL, Cloud","Machine Learning, Cybersecurity"
+445,Oscar445,Business Analytics,"R, NLP, Statistics, Cloud","Software Development, Cloud Computing"
+446,Oscar446,Mechanical Eng.,"Cloud, JavaScript, VHDL","Cloud Computing, Cybersecurity, Machine Learning"
+447,Nina447,IT,"JavaScript, ML, C++, Excel","Automation, Cloud Computing, Software Development"
+448,Mona448,Mathematics,"Cloud, VHDL, Excel, ML",Deep Learning
+449,Mona449,Computer Science,"SQL, DL, HTML, Power BI",Data Science
+450,Alice450,Computer Applications,"HTML, C++, ML, TensorFlow, Statistics","Analytics, Cloud Computing, Robotics"
+451,Grace451,Electrical Eng.,"DL, Cybersecurity, ML, MATLAB, Python","IoT, Analytics, Automation"
+452,Rita452,Mechanical Eng.,"TensorFlow, R, CSS","Analytics, AI"
+453,Rita453,Electrical Eng.,"CSS, Statistics","Deep Learning, Software Development"
+454,Rita454,IT,"Arduino, IoT","Software Development, Automation, Cybersecurity"
+455,Grace455,Business Analytics,"MATLAB, IoT, R",IoT
+456,Tina456,Electronics,"R, Power BI, SQL, CSS, DL",Robotics
+457,Karen457,Mathematics,"Cloud, JavaScript, R, VHDL","Software Development, AI"
+458,Charlie458,IT,"R, Arduino, SQL, Cloud, Statistics","Software Development, Data Science"
+459,Frank459,Business Analytics,"CSS, VHDL, SQL, TensorFlow",Cloud Computing
+460,Oscar460,Business Analytics,"R, Power BI, Excel",Deep Learning
+461,Jack461,Business Analytics,"SQL, NLP, TensorFlow, Power BI",AI
+462,Jack462,IT,"ML, Verilog, Cybersecurity, HTML",AI
+463,Tina463,Mechanical Eng.,"Statistics, Cloud","Embedded Systems, Machine Learning, Analytics"
+464,Grace464,Computer Science,"Excel, MATLAB, Cybersecurity, CSS, HTML",Software Development
+465,Quinn465,Electrical Eng.,"Cybersecurity, VHDL, SQL, R",Robotics
+466,Sam466,Electronics,"NLP, C++, TensorFlow, DL, JavaScript","Deep Learning, Robotics, IoT"
+467,Nina467,Business Analytics,"IoT, Arduino, CSS","VLSI, Deep Learning"
+468,Grace468,Mathematics,"Arduino, TensorFlow, Cybersecurity, DL","VLSI, Cybersecurity, Robotics"
+469,Paul469,Electronics,"Cloud, Excel, Arduino","IoT, Robotics"
+470,Mona470,Electronics,"ML, DL, Statistics, MATLAB, Java","Embedded Systems, Cybersecurity, Machine Learning"
+471,Bob471,Computer Science,"C++, Java, Cybersecurity, DL",Cybersecurity
+472,Grace472,Computer Applications,"SQL, C++, DL","Analytics, Automation"
+473,Eva473,Electrical Eng.,"Statistics, TensorFlow, SQL, Java","Cybersecurity, Data Science"
+474,Oscar474,Mathematics,"SQL, JavaScript, C++","Cybersecurity, IoT"
+475,Frank475,Electronics,"Power BI, ML, VHDL",AI
+476,Frank476,Electrical Eng.,"CSS, Power BI","Analytics, IoT, AI"
+477,Paul477,IT,"MATLAB, Python, Java, TensorFlow, ML","Robotics, Data Science"
+478,Frank478,Business Analytics,"NLP, Power BI, C++",Machine Learning
+479,Frank479,Computer Science,"HTML, Verilog, TensorFlow","Cybersecurity, AI, Cloud Computing"
+480,Alice480,Computer Applications,"Statistics, C++","Machine Learning, IoT, Software Development"
+481,Karen481,Mathematics,"Power BI, Excel, HTML, VHDL, Cybersecurity","Robotics, Cybersecurity"
+482,Paul482,Mechanical Eng.,"ML, R, MATLAB, HTML","VLSI, AI"
+483,Leo483,IT,"R, Cybersecurity, Arduino","Cloud Computing, Deep Learning, Embedded Systems"
+484,Diana484,Computer Science,"MATLAB, Cloud","Deep Learning, AI, Data Science"
+485,Rita485,Mathematics,"IoT, C++, CSS",Deep Learning
+486,Charlie486,Business Analytics,"CSS, DL",Deep Learning
+487,Rita487,Computer Applications,"C++, MATLAB, JavaScript, Statistics, VHDL",IoT
+488,Rita488,Computer Applications,"Statistics, DL, Verilog","Embedded Systems, Cloud Computing"
+489,Eva489,IT,"DL, NLP, Cloud, CSS",Cloud Computing
+490,Leo490,Digital Electronics,"JavaScript, SQL, R","VLSI, Data Science"
+491,Diana491,Mechanical Eng.,"NLP, Power BI, R","Software Development, Cloud Computing"
+492,Tina492,Mechanical Eng.,"R, Power BI",Data Science
+493,Diana493,Physics,"Arduino, NLP","Cloud Computing, Machine Learning, AI"
+494,Tina494,Computer Applications,"Java, Cloud, VHDL, Python, Verilog","Analytics, Automation, Cloud Computing"
+495,Paul495,Electrical Eng.,"Java, ML, JavaScript",Data Science
+496,Bob496,Digital Electronics,"C++, VHDL, JavaScript","Embedded Systems, Deep Learning, Machine Learning"
+497,Eva497,Mathematics,"JavaScript, SQL","Analytics, Machine Learning"
+498,Jack498,Electrical Eng.,"Verilog, HTML, JavaScript","Embedded Systems, IoT"
+499,Quinn499,Business Analytics,"Power BI, Cloud, Arduino, Cybersecurity","Robotics, Cybersecurity, Deep Learning"
+500,Ivy500,Computer Science,"DL, IoT, VHDL","Software Development, Cloud Computing, Analytics"
+501,Charlie501,Physics,"HTML, Python, C++, Verilog",Analytics
+502,Karen502,Mechanical Eng.,"ML, Power BI, Cybersecurity, R","Data Science, Embedded Systems"
+503,Leo503,Physics,"MATLAB, Python, R, SQL",AI
+504,Sam504,IT,"Cloud, Excel","Cloud Computing, Software Development, AI"
+505,Grace505,Computer Science,"ML, Statistics, Java, CSS, Excel","Embedded Systems, Machine Learning, Software Development"
+506,Jack506,Electrical Eng.,"HTML, ML, Excel, Python, MATLAB","Deep Learning, VLSI"
+507,Henry507,Digital Electronics,"SQL, CSS",IoT
+508,Nina508,Mechanical Eng.,"Excel, SQL, Java, JavaScript","Embedded Systems, Robotics"
+509,Karen509,Mechanical Eng.,"Power BI, HTML, CSS","Cybersecurity, Analytics, Deep Learning"
+510,Jack510,Electrical Eng.,"Arduino, Verilog, Cybersecurity, Excel","Embedded Systems, VLSI"
+511,Paul511,Physics,"Cloud, JavaScript, R","AI, Automation, Cloud Computing"
+512,Quinn512,Computer Science,"Cloud, TensorFlow, DL, CSS","VLSI, Analytics"
+513,Ivy513,Mathematics,"Verilog, Arduino, HTML, SQL","IoT, Deep Learning"
+514,Charlie514,Mathematics,"SQL, JavaScript","Machine Learning, Deep Learning, Embedded Systems"
+515,Mona515,Electronics,"TensorFlow, CSS, Power BI, Cloud, JavaScript",VLSI
+516,Jack516,Computer Science,"HTML, Cybersecurity, Power BI","Cybersecurity, AI, Data Science"
+517,Eva517,Electronics,"TensorFlow, Arduino","Analytics, Robotics"
+518,Leo518,Physics,"Java, MATLAB, SQL",Robotics
+519,Quinn519,Mechanical Eng.,"Python, Statistics, Cybersecurity, TensorFlow","Automation, Machine Learning"
+520,Grace520,Mathematics,"Excel, NLP, Verilog",Software Development
+521,Frank521,Computer Science,"Power BI, VHDL, Excel, TensorFlow","Deep Learning, Machine Learning"
+522,Frank522,IT,"Arduino, DL, Power BI, Python","Robotics, AI"
+523,Jack523,Electronics,"VHDL, SQL, TensorFlow",Robotics
+524,Oscar524,Mathematics,"HTML, VHDL, C++, R, Power BI","Deep Learning, Automation, VLSI"
+525,Henry525,IT,"TensorFlow, R, SQL","Cloud Computing, AI, Analytics"
+526,Henry526,Mathematics,"HTML, Arduino, ML, Verilog","Analytics, VLSI"
+527,Leo527,Mechanical Eng.,"R, VHDL, Cloud, Statistics","Robotics, Cybersecurity, AI"
+528,Henry528,Electrical Eng.,"Arduino, HTML, Excel",AI
+529,Eva529,IT,"VHDL, SQL, Java, TensorFlow","Analytics, IoT"
+530,Quinn530,Business Analytics,"MATLAB, CSS, Power BI, NLP","Cybersecurity, VLSI, Data Science"
+531,Eva531,Business Analytics,"C++, Verilog, HTML, Cloud","Analytics, Cybersecurity, IoT"
+532,Frank532,Computer Applications,"HTML, Power BI, CSS",Deep Learning
+533,Karen533,Digital Electronics,"HTML, Java, CSS, SQL, Excel",VLSI
+534,Mona534,Electrical Eng.,"MATLAB, Statistics, ML, VHDL, SQL","Data Science, AI"
+535,Karen535,Electronics,"Arduino, Power BI, Statistics, TensorFlow, CSS","Cloud Computing, Machine Learning"
+536,Grace536,Electrical Eng.,"VHDL, JavaScript, HTML, Python","IoT, Deep Learning, Embedded Systems"
+537,Quinn537,Computer Applications,"MATLAB, Arduino",Software Development
+538,Karen538,IT,"VHDL, CSS, Python","Software Development, Analytics, IoT"
+539,Mona539,Electrical Eng.,"TensorFlow, VHDL, Cloud",Embedded Systems
+540,Charlie540,Electronics,"SQL, Verilog, JavaScript, DL, Statistics","Cloud Computing, Embedded Systems"
+541,Oscar541,Business Analytics,"Cybersecurity, R, VHDL, Python","Data Science, Cybersecurity"
+542,Eva542,Mathematics,"VHDL, Cybersecurity, SQL, Arduino, Power BI","Robotics, Analytics"
+543,Eva543,Electrical Eng.,"CSS, SQL, VHDL, TensorFlow, C++",Cloud Computing
+544,Quinn544,IT,"TensorFlow, Statistics","Deep Learning, Embedded Systems"
+545,Grace545,Electrical Eng.,"Verilog, HTML","Robotics, Software Development, Machine Learning"
+546,Henry546,Physics,"NLP, IoT, SQL, ML, Python","IoT, Machine Learning, Data Science"
+547,Grace547,Digital Electronics,"HTML, ML, Cloud","Software Development, IoT"
+548,Tina548,Computer Science,"JavaScript, Power BI, Java","Cloud Computing, Machine Learning"
+549,Henry549,Physics,"Python, Cloud, Excel, Java, Power BI",Deep Learning
+550,Grace550,Physics,"NLP, JavaScript","Cybersecurity, Automation"
+551,Nina551,Mechanical Eng.,"Excel, Cybersecurity, NLP, HTML","Deep Learning, Data Science"
+552,Nina552,Computer Science,"SQL, MATLAB, Python, R",Automation
+553,Bob553,Electrical Eng.,"NLP, MATLAB, IoT",Machine Learning
+554,Charlie554,IT,"HTML, ML, Excel, Cloud","IoT, Deep Learning, Machine Learning"
+555,Oscar555,Business Analytics,"ML, IoT","IoT, Deep Learning, AI"
+556,Ivy556,Mathematics,"Excel, NLP, R, Python, CSS","Cybersecurity, Deep Learning, Data Science"
+557,Oscar557,Electronics,"Java, IoT, Statistics, Verilog, HTML","Machine Learning, Data Science, Automation"
+558,Mona558,Mechanical Eng.,"Python, MATLAB, Verilog, Power BI","Analytics, VLSI, Machine Learning"
+559,Tina559,Computer Applications,"IoT, Python, TensorFlow","Software Development, Deep Learning, AI"
+560,Oscar560,Electronics,"Cybersecurity, HTML, CSS, Cloud, IoT","Deep Learning, Cybersecurity, Embedded Systems"
+561,Leo561,Business Analytics,"Cybersecurity, CSS","Software Development, Cloud Computing"
+562,Grace562,Electrical Eng.,"Arduino, Cloud, MATLAB, Power BI","Cloud Computing, Data Science, Deep Learning"
+563,Frank563,Computer Applications,"IoT, R, DL","Analytics, Cybersecurity, Automation"
+564,Rita564,Computer Science,"NLP, Cloud, Statistics, HTML","IoT, Machine Learning"
+565,Sam565,Physics,"SQL, JavaScript, Power BI",VLSI
+566,Ivy566,Physics,"SQL, TensorFlow, Cybersecurity, R","Machine Learning, VLSI"
+567,Oscar567,Mechanical Eng.,"CSS, Cybersecurity, NLP, Arduino","Cloud Computing, Embedded Systems, Deep Learning"
+568,Diana568,Electrical Eng.,"MATLAB, C++, CSS",Cloud Computing
+569,Frank569,Electrical Eng.,"Cybersecurity, HTML",Automation
+570,Mona570,Mathematics,"Power BI, SQL, CSS, Verilog, NLP","AI, Cloud Computing, Embedded Systems"
+571,Nina571,Digital Electronics,"JavaScript, DL, Verilog, SQL, CSS",Robotics
+572,Frank572,Mathematics,"HTML, Statistics","Automation, Cybersecurity, Software Development"
+573,Paul573,Electronics,"Java, VHDL, MATLAB","Embedded Systems, Analytics, IoT"
+574,Alice574,Computer Science,"CSS, Java, TensorFlow, Verilog",Analytics
+575,Bob575,Business Analytics,"NLP, Power BI, Python, MATLAB, HTML","IoT, AI"
+576,Frank576,Business Analytics,"JavaScript, Arduino, Statistics","Analytics, Cloud Computing, Embedded Systems"
+577,Charlie577,Computer Science,"NLP, Cybersecurity, JavaScript, SQL, R","Machine Learning, AI, Deep Learning"
+578,Rita578,Computer Science,"DL, Verilog, CSS, NLP",Cybersecurity
+579,Jack579,Digital Electronics,"Power BI, DL",Automation
+580,Karen580,Computer Applications,"C++, Java, Cybersecurity, Statistics, Python","IoT, Machine Learning, Embedded Systems"
+581,Bob581,Mechanical Eng.,"ML, DL, Java, VHDL",AI
+582,Tina582,IT,"Cybersecurity, NLP, Statistics, Verilog, DL","Automation, Deep Learning"
+583,Jack583,Physics,"Cloud, ML, MATLAB, Java","Embedded Systems, Robotics"
+584,Eva584,Mathematics,"ML, Power BI, DL, Arduino","Deep Learning, AI, Machine Learning"
+585,Tina585,Mathematics,"C++, DL, Verilog","Automation, AI"
+586,Leo586,Mathematics,"TensorFlow, ML, Power BI","Cybersecurity, Robotics, Embedded Systems"
+587,Alice587,Business Analytics,"VHDL, ML","Automation, Analytics, IoT"
+588,Oscar588,Business Analytics,"C++, Arduino, NLP, CSS","AI, Data Science, IoT"
+589,Ivy589,Mathematics,"Statistics, C++","Analytics, Software Development, AI"
+590,Eva590,Physics,"ML, C++, Cloud, R, Cybersecurity","Robotics, VLSI, Software Development"
+591,Rita591,Mechanical Eng.,"DL, Cybersecurity","Robotics, Embedded Systems, Deep Learning"
+592,Nina592,Mechanical Eng.,"Excel, CSS, NLP, Cybersecurity","IoT, Machine Learning"
+593,Leo593,Mathematics,"IoT, SQL, Python",Analytics
+594,Sam594,Mathematics,"SQL, Statistics, DL","Embedded Systems, IoT, Analytics"
+595,Rita595,Digital Electronics,"Verilog, C++","Cloud Computing, Automation, Machine Learning"
+596,Paul596,Digital Electronics,"JavaScript, Python, MATLAB, Power BI, Java",Robotics
+597,Henry597,Electrical Eng.,"R, Arduino",Automation
+598,Paul598,Electrical Eng.,"NLP, JavaScript","Analytics, Cloud Computing"
+599,Frank599,IT,"Java, Cloud, NLP, CSS","Cloud Computing, AI, VLSI"
+600,Sam600,Mathematics,"Excel, JavaScript, Cloud, Arduino, Statistics","Deep Learning, Robotics"
+601,Charlie601,Computer Science,"ML, Cloud","Analytics, Cloud Computing"
+602,Jack602,Electrical Eng.,"CSS, ML, MATLAB, DL","Machine Learning, Robotics, Automation"
+603,Charlie603,Computer Science,"DL, Verilog, IoT, NLP, Power BI",IoT
+604,Frank604,Electronics,"VHDL, Java, SQL, Cloud, Cybersecurity","Analytics, Embedded Systems, Deep Learning"
+605,Rita605,Digital Electronics,"CSS, Arduino, Verilog, TensorFlow, IoT","IoT, Cybersecurity, VLSI"
+606,Mona606,Electronics,"IoT, Power BI","Robotics, Analytics, IoT"
+607,Oscar607,Computer Science,"Arduino, VHDL, TensorFlow, C++, SQL","IoT, Software Development, VLSI"
+608,Henry608,Physics,"Verilog, SQL, Java, IoT","Embedded Systems, Cybersecurity, Cloud Computing"
+609,Diana609,Computer Science,"Arduino, HTML, MATLAB, Cloud, Excel","Software Development, Machine Learning"
+610,Eva610,Mathematics,"SQL, Verilog",Embedded Systems
+611,Grace611,Digital Electronics,"TensorFlow, R, IoT, ML, Power BI","Deep Learning, VLSI, Data Science"
+612,Diana612,IT,"Cybersecurity, NLP, Power BI","Machine Learning, Software Development, AI"
+613,Alice613,Mathematics,"SQL, ML",Robotics
+614,Henry614,Physics,"TensorFlow, CSS, Cloud","Machine Learning, Deep Learning"
+615,Tina615,Computer Science,"ML, C++, IoT, Excel, DL","Software Development, Embedded Systems"
+616,Tina616,Mechanical Eng.,"IoT, Verilog, Cybersecurity, Arduino, JavaScript",AI
+617,Quinn617,IT,"MATLAB, Python, Java, CSS, SQL",Data Science
+618,Ivy618,Electronics,"JavaScript, CSS, Arduino","Cybersecurity, Data Science, Robotics"
+619,Mona619,Mechanical Eng.,"JavaScript, ML, DL",Deep Learning
+620,Karen620,Digital Electronics,"MATLAB, Cybersecurity, Python, R, Arduino","Embedded Systems, Cloud Computing"
+621,Bob621,Business Analytics,"IoT, SQL, JavaScript, Power BI","Software Development, IoT"
+622,Nina622,Electrical Eng.,"DL, R, NLP, Statistics, Power BI","Analytics, Deep Learning"
+623,Jack623,IT,"R, NLP, DL, VHDL",Cybersecurity
+624,Henry624,Physics,"Statistics, Cloud, SQL, Java","Automation, AI"
+625,Diana625,Physics,"NLP, Cybersecurity","Robotics, Automation, AI"
+626,Bob626,Physics,"Power BI, VHDL, C++, Python, NLP",Cloud Computing
+627,Bob627,Computer Applications,"SQL, VHDL, Statistics, CSS","Deep Learning, Machine Learning, Embedded Systems"
+628,Oscar628,Digital Electronics,"Java, Excel, DL","AI, Software Development, Cybersecurity"
+629,Ivy629,Electronics,"IoT, Verilog, C++, Cloud",Embedded Systems
+630,Karen630,Computer Applications,"R, Cybersecurity",Analytics
+631,Frank631,Business Analytics,"HTML, Python, NLP","Software Development, Cybersecurity"
+632,Quinn632,Electrical Eng.,"DL, SQL, Cloud, Verilog","Cloud Computing, Software Development"
+633,Paul633,Business Analytics,"Cloud, MATLAB, Arduino, Statistics","VLSI, Automation"
+634,Oscar634,Mathematics,"R, MATLAB, C++",AI
+635,Rita635,Computer Applications,"Power BI, Java, Arduino, R, Cloud",AI
+636,Charlie636,Electronics,"Statistics, MATLAB, Arduino","Embedded Systems, Automation"
+637,Grace637,Mathematics,"Cybersecurity, Excel, Java, Verilog, Cloud",Cybersecurity
+638,Eva638,Electrical Eng.,"VHDL, Python, HTML, Arduino","Automation, IoT"
+639,Ivy639,Physics,"NLP, Arduino, SQL, Excel, DL","Embedded Systems, Cybersecurity, Robotics"
+640,Diana640,Business Analytics,"Verilog, JavaScript, DL, Python, Statistics",Machine Learning
+641,Henry641,Digital Electronics,"TensorFlow, R, Cybersecurity","Machine Learning, AI, Embedded Systems"
+642,Jack642,Mechanical Eng.,"CSS, R, Arduino, Python","Cloud Computing, Data Science, VLSI"
+643,Henry643,Mathematics,"Statistics, Verilog, DL, R","Machine Learning, IoT"
+644,Bob644,Digital Electronics,"Python, Statistics, Verilog","VLSI, Robotics"
+645,Oscar645,IT,"ML, Cybersecurity, VHDL, SQL","Software Development, IoT"
+646,Bob646,Physics,"Java, Cybersecurity, VHDL, C++","Software Development, IoT, Cloud Computing"
+647,Nina647,Mathematics,"MATLAB, TensorFlow, R, Python, Arduino","Cybersecurity, Deep Learning"
+648,Nina648,Electrical Eng.,"TensorFlow, R, Java, Excel, Statistics","Cybersecurity, IoT"
+649,Frank649,IT,"NLP, Statistics, HTML",Automation
+650,Grace650,Digital Electronics,"IoT, ML, DL, Power BI, Java","Robotics, Automation"
+651,Eva651,Digital Electronics,"Python, Cybersecurity, Verilog, HTML, Power BI","Cybersecurity, Robotics"
+652,Frank652,Electrical Eng.,"Arduino, ML","Deep Learning, IoT, Embedded Systems"
+653,Charlie653,Physics,"Power BI, NLP, MATLAB, Java",Software Development
+654,Paul654,Digital Electronics,"R, Arduino","Deep Learning, Embedded Systems"
+655,Ivy655,Business Analytics,"Arduino, JavaScript","Deep Learning, Analytics"
+656,Henry656,Mechanical Eng.,"HTML, R, C++",Automation
+657,Karen657,Physics,"TensorFlow, ML","Cloud Computing, Deep Learning"
+658,Mona658,Electrical Eng.,"CSS, Cloud, IoT, Verilog","Automation, Deep Learning"
+659,Tina659,Computer Applications,"JavaScript, Python, ML, Power BI, SQL",Embedded Systems
+660,Charlie660,Digital Electronics,"Power BI, R, Cybersecurity, IoT, CSS","Embedded Systems, Data Science"
+661,Karen661,Electronics,"HTML, SQL, Python","Machine Learning, Data Science"
+662,Jack662,Mechanical Eng.,"VHDL, SQL, R, Cybersecurity","Embedded Systems, Analytics, Software Development"
+663,Henry663,Computer Applications,"TensorFlow, ML, R",Machine Learning
+664,Diana664,Mathematics,"Verilog, Cloud, MATLAB, Java",Data Science
+665,Ivy665,Digital Electronics,"Verilog, TensorFlow, Arduino, SQL, NLP","Cloud Computing, Software Development"
+666,Quinn666,Mechanical Eng.,"Arduino, Excel, IoT",Machine Learning
+667,Ivy667,Physics,"DL, Excel, IoT","Embedded Systems, Robotics"
+668,Eva668,Mathematics,"Excel, DL, TensorFlow",Deep Learning
+669,Jack669,Mechanical Eng.,"MATLAB, ML, DL",Robotics
+670,Alice670,Computer Applications,"Excel, Java, JavaScript","Data Science, IoT, Cybersecurity"
+671,Mona671,Electrical Eng.,"CSS, MATLAB, TensorFlow, Arduino","Cloud Computing, Embedded Systems"
+672,Alice672,Physics,"Cybersecurity, DL, IoT","Cloud Computing, AI, VLSI"
+673,Sam673,Electrical Eng.,"JavaScript, CSS, SQL",VLSI
+674,Mona674,Electronics,"R, Statistics, Python, IoT","Machine Learning, VLSI"
+675,Rita675,Computer Applications,"ML, MATLAB","Deep Learning, AI"
+676,Henry676,Digital Electronics,"C++, MATLAB, CSS, IoT, SQL","VLSI, IoT, Analytics"
+677,Alice677,Physics,"Java, Cybersecurity, R","Data Science, Machine Learning"
+678,Eva678,Electrical Eng.,"HTML, Verilog, ML, CSS, Excel",Cloud Computing
+679,Grace679,Computer Applications,"Statistics, Arduino, Cybersecurity, Power BI, NLP","Robotics, Deep Learning, Cloud Computing"
+680,Sam680,Electronics,"Arduino, Java, DL, NLP, MATLAB",Robotics
+681,Diana681,Electrical Eng.,"Power BI, Cybersecurity, Arduino",VLSI
+682,Henry682,Electrical Eng.,"Python, Excel, TensorFlow, Verilog",AI
+683,Leo683,Mechanical Eng.,"SQL, Power BI, IoT, VHDL","Data Science, Machine Learning"
+684,Nina684,Physics,"TensorFlow, JavaScript",Machine Learning
+685,Quinn685,Physics,"Power BI, MATLAB",Cybersecurity
+686,Tina686,Digital Electronics,"HTML, ML","IoT, VLSI, Automation"
+687,Rita687,Computer Science,"IoT, NLP, Verilog","Deep Learning, Embedded Systems, Software Development"
+688,Nina688,Mathematics,"Excel, VHDL, DL, JavaScript, R",Robotics
+689,Sam689,Physics,"ML, R","Cloud Computing, Software Development, Cybersecurity"
+690,Frank690,Mechanical Eng.,"Arduino, CSS, Statistics, R, VHDL","VLSI, Software Development"
+691,Karen691,Mathematics,"Cybersecurity, Power BI, JavaScript","Data Science, Deep Learning"
+692,Leo692,Computer Science,"R, Power BI, Cloud",Embedded Systems
+693,Frank693,Physics,"VHDL, Python, SQL, Cloud","Data Science, Software Development, Deep Learning"
+694,Grace694,Mathematics,"Power BI, Excel, Python, CSS",Analytics
+695,Diana695,Computer Science,"Java, Cybersecurity, R","Robotics, Embedded Systems"
+696,Tina696,Electronics,"C++, Cybersecurity, Cloud, R","Data Science, Deep Learning, Robotics"
+697,Sam697,Business Analytics,"Python, VHDL, R, SQL, ML","Machine Learning, Software Development, Cloud Computing"
+698,Frank698,Mechanical Eng.,"IoT, NLP, HTML, ML",Cybersecurity
+699,Tina699,Digital Electronics,"C++, R, Statistics",AI
+700,Frank700,Mechanical Eng.,"Cloud, NLP, DL",AI
+701,Tina701,IT,"Cloud, CSS, Statistics, Excel",Automation
+702,Frank702,Business Analytics,"TensorFlow, CSS, Arduino","Machine Learning, Deep Learning"
+703,Ivy703,Electrical Eng.,"SQL, IoT, ML, HTML, R","Automation, VLSI, Software Development"
+704,Leo704,Computer Applications,"ML, Statistics","Automation, Analytics"
+705,Henry705,Mathematics,"NLP, C++, Statistics","Embedded Systems, Robotics"
+706,Alice706,Physics,"SQL, Statistics",Embedded Systems
+707,Mona707,IT,"SQL, Power BI, Java","Analytics, Robotics"
+708,Quinn708,Physics,"C++, MATLAB, TensorFlow, JavaScript","Robotics, Data Science, Machine Learning"
+709,Mona709,Computer Applications,"Cybersecurity, Statistics, Cloud, HTML, R",VLSI
+710,Oscar710,Computer Applications,"Verilog, IoT, MATLAB, DL, C++",Deep Learning
+711,Leo711,Electronics,"R, TensorFlow, DL, Cybersecurity, Verilog","Cloud Computing, Embedded Systems"
+712,Sam712,Electrical Eng.,"R, NLP","Automation, Cybersecurity"
+713,Karen713,Digital Electronics,"Power BI, C++","Embedded Systems, AI, Machine Learning"
+714,Grace714,IT,"HTML, TensorFlow, JavaScript",AI
+715,Ivy715,Mechanical Eng.,"CSS, Verilog, Power BI, Statistics","Cloud Computing, Data Science, Software Development"
+716,Paul716,Business Analytics,"Java, MATLAB, IoT",Robotics
+717,Rita717,Computer Applications,"Statistics, NLP, IoT, Cybersecurity, Verilog","IoT, Data Science"
+718,Karen718,Electrical Eng.,"HTML, MATLAB, IoT, Arduino","VLSI, AI, Cloud Computing"
+719,Rita719,Physics,"HTML, TensorFlow, NLP, R","Cybersecurity, Embedded Systems"
+720,Paul720,Mathematics,"Arduino, Statistics, Java, NLP","Software Development, AI, Robotics"
+721,Frank721,Electronics,"TensorFlow, HTML",Automation
+722,Leo722,Electrical Eng.,"VHDL, Cybersecurity","Cloud Computing, Automation, Embedded Systems"
+723,Leo723,Electronics,"R, DL, Power BI, NLP, ML","Cloud Computing, Embedded Systems, Analytics"
+724,Quinn724,Mechanical Eng.,"HTML, NLP, Python","Deep Learning, Analytics"
+725,Jack725,Physics,"Java, IoT","Machine Learning, Embedded Systems"
+726,Tina726,Electrical Eng.,"Power BI, Cybersecurity, IoT","Cloud Computing, Cybersecurity, Software Development"
+727,Oscar727,Mathematics,"R, Cybersecurity, IoT, TensorFlow","Automation, Machine Learning"
+728,Paul728,IT,"CSS, SQL","AI, Data Science, IoT"
+729,Nina729,Electronics,"HTML, SQL, JavaScript, TensorFlow, Statistics","Deep Learning, Machine Learning"
+730,Eva730,Physics,"IoT, JavaScript","Automation, Embedded Systems, Deep Learning"
+731,Karen731,Physics,"MATLAB, VHDL, CSS, Cloud, Verilog","VLSI, Software Development, Automation"
+732,Frank732,Digital Electronics,"Python, ML, MATLAB","Deep Learning, Data Science"
+733,Oscar733,Computer Applications,"Power BI, DL, TensorFlow","Cloud Computing, Automation, Deep Learning"
+734,Mona734,Digital Electronics,"SQL, NLP, DL, Excel, HTML",Cybersecurity
+735,Rita735,Electronics,"VHDL, TensorFlow, Power BI, Cybersecurity, MATLAB","IoT, Software Development, AI"
+736,Rita736,Business Analytics,"Verilog, HTML, Python",Automation
+737,Charlie737,Mathematics,"Statistics, Python","VLSI, Cloud Computing"
+738,Bob738,Business Analytics,"Statistics, R",Deep Learning
+739,Leo739,Business Analytics,"R, ML, CSS, DL",IoT
+740,Charlie740,Computer Applications,"SQL, NLP, Verilog, Excel, Java","Deep Learning, Data Science, Cybersecurity"
+741,Sam741,IT,"Excel, Verilog, TensorFlow, NLP, IoT",Analytics
+742,Eva742,Business Analytics,"NLP, Python, R","Automation, Cybersecurity, VLSI"
+743,Charlie743,Mathematics,"TensorFlow, NLP",Robotics
+744,Jack744,Computer Applications,"Cloud, NLP, Statistics, Java","Cybersecurity, Embedded Systems"
+745,Eva745,Electronics,"Cloud, TensorFlow","Embedded Systems, Robotics, AI"
+746,Bob746,Computer Applications,"HTML, IoT, C++","Cloud Computing, AI, Data Science"
+747,Quinn747,Electrical Eng.,"TensorFlow, Excel, R, HTML, Verilog","Deep Learning, Software Development"
+748,Eva748,Physics,"IoT, SQL, ML",Software Development
+749,Eva749,Physics,"HTML, VHDL, TensorFlow, C++, Java",VLSI
+750,Rita750,Computer Applications,"TensorFlow, Power BI, Java, SQL, Arduino",VLSI
+751,Sam751,Computer Science,"DL, Power BI",AI
+752,Alice752,Electronics,"Java, Verilog",Analytics
+753,Eva753,Mathematics,"TensorFlow, Statistics, JavaScript, MATLAB","Machine Learning, IoT"
+754,Alice754,Digital Electronics,"Power BI, SQL, Verilog",Embedded Systems
+755,Frank755,Business Analytics,"MATLAB, Python, Excel, ML, Java",Deep Learning
+756,Nina756,Mathematics,"IoT, DL","Analytics, Cloud Computing, Machine Learning"
+757,Henry757,Mechanical Eng.,"VHDL, IoT","Machine Learning, Software Development"
+758,Diana758,Computer Applications,"MATLAB, C++, R, CSS, TensorFlow","Software Development, Robotics, Cybersecurity"
+759,Karen759,IT,"Cybersecurity, Java",Deep Learning
+760,Oscar760,Physics,"SQL, Verilog","Robotics, IoT, AI"
+761,Jack761,Digital Electronics,"DL, Cybersecurity, Excel, Arduino","AI, Embedded Systems, Robotics"
+762,Oscar762,Computer Applications,"Excel, TensorFlow, Statistics",Data Science
+763,Sam763,Computer Science,"Verilog, Cloud, CSS, Statistics","Machine Learning, IoT, Data Science"
+764,Mona764,Electrical Eng.,"ML, Power BI, Java, TensorFlow","Robotics, Software Development"
+765,Nina765,Mechanical Eng.,"Excel, Cloud, Arduino","Deep Learning, Embedded Systems, VLSI"
+766,Eva766,Digital Electronics,"Python, DL, CSS, JavaScript","Software Development, AI"
+767,Ivy767,Computer Science,"SQL, Power BI, Arduino, Statistics, C++","Cybersecurity, Software Development, Analytics"
+768,Bob768,Mathematics,"VHDL, Cybersecurity, Python, SQL, HTML","VLSI, Embedded Systems"
+769,Bob769,Electrical Eng.,"DL, R","Data Science, IoT, Cloud Computing"
+770,Leo770,Electronics,"NLP, JavaScript","Cloud Computing, Data Science, Embedded Systems"
+771,Frank771,Business Analytics,"Power BI, NLP","Software Development, Embedded Systems"
+772,Charlie772,Business Analytics,"Java, Power BI, Statistics, JavaScript, Verilog",Cybersecurity
+773,Ivy773,Mechanical Eng.,"Excel, ML, Cybersecurity, DL","VLSI, Software Development"
+774,Diana774,Mathematics,"Java, Verilog, Cybersecurity, IoT, DL","IoT, VLSI, AI"
+775,Oscar775,Electronics,"Excel, NLP","AI, Software Development"
+776,Bob776,Computer Science,"Statistics, HTML, NLP, Power BI","Cybersecurity, Robotics, Machine Learning"
+777,Quinn777,IT,"VHDL, Python",Analytics
+778,Frank778,Physics,"MATLAB, NLP","Machine Learning, AI"
+779,Tina779,Electronics,"HTML, DL, Excel","Software Development, Embedded Systems, Deep Learning"
+780,Diana780,Electrical Eng.,"HTML, Statistics","IoT, AI, Data Science"
+781,Ivy781,Mechanical Eng.,"Excel, DL, NLP, ML",Cloud Computing
+782,Jack782,Electronics,"SQL, CSS","Machine Learning, Robotics"
+783,Henry783,Computer Science,"NLP, Arduino","Embedded Systems, VLSI, Deep Learning"
+784,Frank784,Electrical Eng.,"Cybersecurity, Excel, DL, HTML","Embedded Systems, Machine Learning"
+785,Frank785,Digital Electronics,"HTML, NLP, DL",Robotics
+786,Leo786,Physics,"VHDL, JavaScript, IoT","Automation, Cybersecurity"
+787,Oscar787,Computer Science,"SQL, MATLAB",Robotics
+788,Paul788,Electronics,"Arduino, DL, Power BI, Statistics, CSS","AI, Automation"
+789,Nina789,Computer Applications,"C++, Python, Java, NLP, SQL","AI, Robotics"
+790,Mona790,Digital Electronics,"TensorFlow, JavaScript, Statistics",Automation
+791,Leo791,Business Analytics,"Cybersecurity, R","IoT, Cloud Computing"
+792,Oscar792,IT,"C++, TensorFlow, Cybersecurity, Power BI","Data Science, Analytics, AI"
+793,Paul793,Computer Science,"Arduino, Power BI","Data Science, Cybersecurity"
+794,Leo794,Physics,"MATLAB, Excel, Statistics, TensorFlow","Cybersecurity, Robotics"
+795,Sam795,Business Analytics,"JavaScript, Excel, DL, C++, Power BI","Robotics, VLSI"
+796,Oscar796,Electrical Eng.,"Power BI, ML, HTML, Verilog, JavaScript","Cybersecurity, Machine Learning"
+797,Jack797,IT,"Verilog, VHDL, Excel, Java, CSS",Robotics
+798,Frank798,Electronics,"Power BI, MATLAB",Machine Learning
+799,Rita799,Computer Science,"C++, NLP, Cybersecurity, IoT","Robotics, Embedded Systems"
+800,Jack800,Mathematics,"Cloud, Statistics, Cybersecurity, Excel",Cybersecurity
+801,Rita801,Computer Applications,"JavaScript, Statistics",Cloud Computing
+802,Diana802,Digital Electronics,"SQL, C++, CSS","Cloud Computing, Data Science"
+803,Tina803,Mathematics,"Statistics, Excel, Arduino, R, CSS",IoT
+804,Bob804,Business Analytics,"Excel, Cloud, R, Java","Cloud Computing, Cybersecurity, Machine Learning"
+805,Charlie805,Mathematics,"Arduino, Cybersecurity","VLSI, Robotics"
+806,Leo806,Electronics,"JavaScript, Verilog, ML","IoT, Robotics, Cloud Computing"
+807,Frank807,Mechanical Eng.,"ML, SQL, VHDL, Verilog, Python","VLSI, Machine Learning"
+808,Karen808,Business Analytics,"Cloud, Arduino, DL, SQL","Machine Learning, IoT, Analytics"
+809,Henry809,Computer Science,"Java, JavaScript, ML, MATLAB","Software Development, Data Science, Cybersecurity"
+810,Karen810,IT,"NLP, ML, HTML, DL",IoT
+811,Grace811,Computer Science,"Excel, R","AI, Analytics"
+812,Grace812,Digital Electronics,"HTML, DL, ML","IoT, Machine Learning, Robotics"
+813,Rita813,Electrical Eng.,"Java, Verilog","Robotics, VLSI"
+814,Nina814,Business Analytics,"IoT, JavaScript, Verilog","Automation, IoT, Robotics"
+815,Charlie815,Physics,"Cloud, HTML, NLP, CSS, Statistics",Software Development
+816,Grace816,Electronics,"HTML, CSS, R, Power BI","IoT, VLSI"
+817,Leo817,IT,"Java, VHDL","Data Science, Machine Learning, Robotics"
+818,Grace818,Mechanical Eng.,"ML, TensorFlow","Software Development, Data Science"
+819,Eva819,Mathematics,"Arduino, VHDL, JavaScript, Python, MATLAB","Cloud Computing, Data Science"
+820,Nina820,Electrical Eng.,"IoT, NLP","VLSI, AI, Cloud Computing"
+821,Diana821,Business Analytics,"C++, IoT",Robotics
+822,Grace822,Electronics,"SQL, Statistics","Cloud Computing, Cybersecurity, Analytics"
+823,Karen823,Electrical Eng.,"VHDL, ML, Excel",VLSI
+824,Alice824,IT,"Python, ML, CSS",Software Development
+825,Leo825,Mechanical Eng.,"Cybersecurity, Cloud, Arduino",Machine Learning
+826,Diana826,Electrical Eng.,"IoT, Cloud, SQL, CSS, Java","VLSI, Deep Learning, Cybersecurity"
+827,Bob827,Electronics,"JavaScript, Cloud, R, Java, IoT","Data Science, VLSI"
+828,Sam828,Computer Applications,"C++, TensorFlow",Embedded Systems
+829,Ivy829,Mechanical Eng.,"Statistics, JavaScript",Analytics
+830,Tina830,Business Analytics,"SQL, CSS","Cybersecurity, Automation, Robotics"
+831,Ivy831,Mathematics,"Arduino, JavaScript, Java","AI, Automation"
+832,Alice832,Business Analytics,"CSS, Cybersecurity, Java","VLSI, Cloud Computing"
+833,Quinn833,Computer Science,"Cloud, Excel","Robotics, Software Development, Deep Learning"
+834,Alice834,Digital Electronics,"JavaScript, Arduino","VLSI, Embedded Systems"
+835,Henry835,Electronics,"Arduino, MATLAB, Verilog, Power BI, Java","Data Science, Deep Learning, Software Development"
+836,Tina836,Electrical Eng.,"Statistics, SQL, CSS","Robotics, Automation"
+837,Rita837,Mathematics,"NLP, Cybersecurity, Arduino, C++","Data Science, Embedded Systems, Deep Learning"
+838,Paul838,Business Analytics,"C++, SQL, Python, VHDL","Deep Learning, Embedded Systems"
+839,Eva839,Mechanical Eng.,"Power BI, C++","Automation, Machine Learning"
+840,Mona840,Mathematics,"Cloud, R, NLP, SQL, Verilog","AI, Cloud Computing, Software Development"
+841,Mona841,Computer Applications,"IoT, Verilog","Analytics, Robotics, Cloud Computing"
+842,Karen842,Mechanical Eng.,"JavaScript, Java, HTML, SQL, Excel",Deep Learning
+843,Tina843,Physics,"Python, SQL, Cybersecurity, Java","Analytics, Machine Learning, Deep Learning"
+844,Leo844,Digital Electronics,"Python, Cloud, R, ML, SQL","Robotics, Deep Learning"
+845,Karen845,Physics,"C++, Python, Power BI, NLP",Software Development
+846,Leo846,Computer Science,"Cybersecurity, Verilog, HTML, DL, R","Software Development, Embedded Systems"
+847,Nina847,Business Analytics,"DL, Verilog, Cloud","IoT, Deep Learning"
+848,Rita848,Electronics,"Statistics, DL, NLP",Automation
+849,Rita849,IT,"JavaScript, DL, Statistics","Robotics, Embedded Systems, AI"
+850,Nina850,Electronics,"SQL, MATLAB, Power BI, Verilog","Automation, Software Development, AI"
+851,Oscar851,Physics,"Python, R",Automation
+852,Henry852,Mathematics,"Cloud, DL","VLSI, IoT, AI"
+853,Rita853,Mechanical Eng.,"Verilog, Power BI, MATLAB, Java, VHDL","IoT, Machine Learning, Cloud Computing"
+854,Alice854,Computer Science,"HTML, NLP, ML, Cybersecurity, Java","IoT, Automation, Embedded Systems"
+855,Jack855,Mechanical Eng.,"Python, HTML, TensorFlow, Verilog, JavaScript","Robotics, Analytics, Embedded Systems"
+856,Tina856,IT,"NLP, Java, ML, CSS","VLSI, AI"
+857,Nina857,Mechanical Eng.,"TensorFlow, Cloud, VHDL, MATLAB, Python",Data Science
+858,Paul858,Electronics,"JavaScript, Cybersecurity, Cloud","Automation, Software Development, Machine Learning"
+859,Grace859,Electronics,"JavaScript, Verilog, Cybersecurity","Software Development, Robotics"
+860,Quinn860,Computer Science,"NLP, TensorFlow, DL, CSS, SQL","Deep Learning, Data Science"
+861,Oscar861,Computer Science,"Verilog, MATLAB, Java, TensorFlow","Robotics, Embedded Systems"
+862,Nina862,Physics,"CSS, NLP","Cybersecurity, Machine Learning"
+863,Mona863,Digital Electronics,"Power BI, CSS, Java, DL",Analytics
+864,Oscar864,Electronics,"HTML, Statistics, Python, SQL, IoT","Cloud Computing, Robotics"
+865,Jack865,Electronics,"DL, Power BI, Python, Java, Statistics","Embedded Systems, Cybersecurity"
+866,Ivy866,Electrical Eng.,"Verilog, NLP, IoT, Power BI, Python","Machine Learning, Deep Learning, Embedded Systems"
+867,Tina867,Mechanical Eng.,"IoT, CSS, JavaScript, Cybersecurity, Verilog",Software Development
+868,Frank868,Physics,"Java, Cloud, Statistics, R, CSS",Automation
+869,Oscar869,Business Analytics,"Cloud, R","Software Development, Automation, Robotics"
+870,Grace870,Physics,"Java, MATLAB, Statistics","Cloud Computing, Deep Learning, Automation"
+871,Tina871,Mechanical Eng.,"Cloud, Cybersecurity, MATLAB","Software Development, Cloud Computing"
+872,Quinn872,Electronics,"HTML, Verilog, Excel, Python",Cybersecurity
+873,Henry873,Electronics,"IoT, Java, HTML, ML","Automation, Software Development, Data Science"
+874,Frank874,Digital Electronics,"C++, ML",VLSI
+875,Leo875,Physics,"ML, HTML",Embedded Systems
+876,Leo876,Mathematics,"DL, C++",Cloud Computing
+877,Mona877,Business Analytics,"Arduino, HTML","IoT, Deep Learning"
+878,Rita878,IT,"SQL, Cloud",Machine Learning
+879,Oscar879,Business Analytics,"CSS, Java, Python, TensorFlow, Verilog",Embedded Systems
+880,Nina880,Electrical Eng.,"Cybersecurity, Excel, SQL, Python, IoT","Analytics, Cloud Computing, Deep Learning"
+881,Henry881,Business Analytics,"HTML, R","Automation, Software Development, Cybersecurity"
+882,Nina882,Business Analytics,"SQL, MATLAB","AI, Automation"
+883,Jack883,Electronics,"Arduino, CSS, NLP","Cloud Computing, Cybersecurity, Embedded Systems"
+884,Grace884,Computer Applications,"Excel, IoT, NLP",Software Development
+885,Frank885,Mathematics,"Verilog, CSS","Data Science, Analytics, AI"
+886,Sam886,Electrical Eng.,"SQL, Statistics, JavaScript, Power BI","Cloud Computing, Robotics"
+887,Nina887,Electronics,"R, DL","Deep Learning, Automation"
+888,Leo888,Computer Applications,"Cloud, Power BI","Cybersecurity, Software Development, IoT"
+889,Alice889,Electronics,"Java, VHDL, Cybersecurity, Python","Automation, IoT"
+890,Bob890,Computer Applications,"MATLAB, JavaScript, HTML, Power BI","Cloud Computing, Cybersecurity"
+891,Nina891,Mathematics,"TensorFlow, CSS, Cybersecurity, Statistics, ML","IoT, Embedded Systems, Software Development"
+892,Nina892,Physics,"JavaScript, C++, Java, Cloud, MATLAB","AI, Data Science"
+893,Oscar893,Computer Science,"Verilog, ML, HTML, MATLAB, IoT","IoT, Cybersecurity"
+894,Henry894,Mechanical Eng.,"C++, Java","Machine Learning, AI, VLSI"
+895,Eva895,Physics,"SQL, Verilog, Power BI, TensorFlow",Deep Learning
+896,Leo896,Mathematics,"SQL, Power BI, Statistics, Python","Automation, VLSI, Cloud Computing"
+897,Leo897,Computer Science,"HTML, JavaScript","Machine Learning, Software Development, Robotics"
+898,Sam898,Physics,"ML, C++, Cloud","Data Science, Automation, IoT"
+899,Rita899,Physics,"ML, Arduino, Python, Excel, CSS","AI, Data Science, VLSI"
+900,Mona900,Mechanical Eng.,"HTML, C++, Python",Embedded Systems
+901,Henry901,Electronics,"C++, CSS",Cybersecurity
+902,Sam902,Business Analytics,"Excel, C++","Software Development, Data Science, AI"
+903,Leo903,Electrical Eng.,"NLP, Excel, MATLAB",Cybersecurity
+904,Mona904,Electronics,"ML, R, NLP",Automation
+905,Mona905,Business Analytics,"DL, VHDL, MATLAB, Arduino",Software Development
+906,Frank906,Business Analytics,"SQL, HTML, Cloud, JavaScript, Java",VLSI
+907,Quinn907,Digital Electronics,"Excel, Power BI, Python","Robotics, AI"
+908,Nina908,Computer Applications,"Cloud, C++, Excel","Software Development, Data Science, Robotics"
+909,Karen909,Mathematics,"HTML, CSS","Data Science, Analytics"
+910,Eva910,Digital Electronics,"VHDL, SQL",Deep Learning
+911,Eva911,Electronics,"CSS, Arduino, MATLAB, Java, JavaScript","IoT, Data Science, Robotics"
+912,Quinn912,Computer Applications,"SQL, CSS, VHDL, Verilog, Java","Embedded Systems, Automation"
+913,Frank913,Mechanical Eng.,"Cybersecurity, IoT, Statistics","Analytics, Cybersecurity, Software Development"
+914,Frank914,Computer Applications,"IoT, R, Power BI, Python","Automation, Robotics"
+915,Sam915,Computer Applications,"ML, NLP, Power BI",Analytics
+916,Eva916,Electrical Eng.,"DL, C++, JavaScript, Cloud, Statistics","IoT, Machine Learning"
+917,Eva917,IT,"Verilog, HTML, VHDL","AI, Embedded Systems, Data Science"
+918,Jack918,Mechanical Eng.,"Verilog, TensorFlow, JavaScript","AI, Cloud Computing"
+919,Alice919,Business Analytics,"R, NLP, Power BI, HTML, Verilog","Cloud Computing, VLSI"
+920,Oscar920,Mathematics,"Cloud, Verilog",Cloud Computing
+921,Jack921,IT,"Excel, JavaScript, IoT, VHDL, Statistics","Data Science, AI, Cybersecurity"
+922,Grace922,Computer Applications,"Excel, NLP","Software Development, Robotics, AI"
+923,Mona923,Physics,"Arduino, Statistics, JavaScript","Machine Learning, Robotics"
+924,Alice924,Physics,"HTML, ML, Power BI","Robotics, Data Science, Cloud Computing"
+925,Nina925,Electrical Eng.,"IoT, C++, Arduino","Analytics, Data Science"
+926,Karen926,Mathematics,"C++, Python, NLP, Verilog, Excel","Data Science, VLSI, Machine Learning"
+927,Bob927,Physics,"TensorFlow, Arduino, Java","Software Development, Data Science"
+928,Henry928,Mathematics,"ML, MATLAB, Cybersecurity, SQL","Cloud Computing, Data Science"
+929,Ivy929,Computer Science,"Cloud, DL, JavaScript, MATLAB",Robotics
+930,Bob930,Physics,"Cybersecurity, Arduino, NLP, Statistics",Analytics
+931,Grace931,Computer Science,"VHDL, Cybersecurity","Software Development, Robotics"
+932,Charlie932,Computer Science,"VHDL, Arduino","Data Science, Robotics, Automation"
+933,Quinn933,Computer Applications,"VHDL, SQL, HTML","Analytics, Cloud Computing, Cybersecurity"
+934,Rita934,Mechanical Eng.,"DL, Cybersecurity, Excel, Cloud, SQL",Cybersecurity
+935,Oscar935,Digital Electronics,"CSS, DL, Power BI","Cybersecurity, VLSI"
+936,Mona936,Business Analytics,"Cloud, C++, DL, Statistics",IoT
+937,Sam937,Computer Science,"Java, Cybersecurity, ML, MATLAB, Power BI","VLSI, Automation, Data Science"
+938,Eva938,Mechanical Eng.,"Python, NLP, Cloud",Software Development
+939,Henry939,Business Analytics,"SQL, Arduino, Statistics, MATLAB, Verilog",Analytics
+940,Rita940,Electronics,"NLP, Java, Cloud",Cybersecurity
+941,Mona941,Electrical Eng.,"JavaScript, Power BI, CSS, NLP","Deep Learning, Software Development, Data Science"
+942,Diana942,IT,"HTML, CSS, Power BI","Machine Learning, Embedded Systems, Deep Learning"
+943,Rita943,IT,"MATLAB, SQL, Python",Embedded Systems
+944,Henry944,Mechanical Eng.,"Power BI, Cloud, Cybersecurity",Robotics
+945,Quinn945,Electrical Eng.,"ML, Excel, Java, SQL, Statistics","Embedded Systems, Data Science, Analytics"
+946,Jack946,Electronics,"MATLAB, VHDL",VLSI
+947,Tina947,Electronics,"HTML, Arduino, MATLAB, Python","Automation, Cybersecurity"
+948,Grace948,Physics,"Power BI, TensorFlow, R, CSS","Software Development, Cybersecurity, AI"
+949,Oscar949,Mechanical Eng.,"Power BI, Statistics, SQL, MATLAB, TensorFlow",AI
+950,Eva950,Electronics,"IoT, Cybersecurity, NLP","Data Science, VLSI"
+951,Frank951,IT,"TensorFlow, SQL, JavaScript, MATLAB",Data Science
+952,Grace952,Computer Applications,"Python, JavaScript, NLP, HTML",Deep Learning
+953,Rita953,IT,"C++, VHDL, Cybersecurity",Cloud Computing
+954,Paul954,Computer Science,"JavaScript, Python, Power BI, NLP, CSS","Cloud Computing, IoT, AI"
+955,Mona955,Mathematics,"VHDL, DL, ML, R, CSS","Cloud Computing, Software Development, Embedded Systems"
+956,Alice956,Physics,"TensorFlow, DL, JavaScript, NLP","Cloud Computing, VLSI, Cybersecurity"
+957,Henry957,Mathematics,"HTML, CSS, ML, Statistics, C++","Cybersecurity, VLSI"
+958,Rita958,Computer Applications,"NLP, C++","Cloud Computing, Software Development, AI"
+959,Nina959,Computer Science,"Statistics, C++, R, Arduino, IoT",Cybersecurity
+960,Alice960,Electronics,"VHDL, Python, Cybersecurity, Cloud, Power BI","Cloud Computing, Analytics"
+961,Mona961,Computer Science,"CSS, Excel",AI
+962,Diana962,Computer Applications,"HTML, Java","AI, Software Development"
+963,Charlie963,Computer Applications,"Power BI, Verilog, TensorFlow, C++, Python","Automation, AI"
+964,Henry964,Electronics,"Arduino, C++, Power BI","Machine Learning, VLSI"
+965,Alice965,Computer Applications,"Statistics, SQL, Verilog",IoT
+966,Nina966,Business Analytics,"HTML, Java, VHDL",Embedded Systems
+967,Rita967,Digital Electronics,"Java, MATLAB, TensorFlow","Data Science, Embedded Systems, Cybersecurity"
+968,Bob968,Computer Applications,"Cybersecurity, NLP, Arduino, MATLAB, Verilog","Cybersecurity, Robotics"
+969,Eva969,Electrical Eng.,"NLP, Cloud, Arduino, IoT, MATLAB","Robotics, Automation"
+970,Eva970,Electronics,"JavaScript, VHDL, Arduino",Machine Learning
+971,Charlie971,IT,"DL, Verilog, ML, Excel, Java","Cybersecurity, Automation, Analytics"
+972,Charlie972,Electronics,"R, Excel, Verilog, C++",Robotics
+973,Sam973,Physics,"ML, NLP","Data Science, AI"
+974,Eva974,Electronics,"ML, IoT",Cloud Computing
+975,Jack975,Physics,"C++, SQL, VHDL, Power BI, Cybersecurity",Robotics
+976,Paul976,Computer Science,"R, CSS, IoT","VLSI, Embedded Systems"
+977,Karen977,Mathematics,"Excel, JavaScript, C++, ML","AI, IoT"
+978,Frank978,Mechanical Eng.,"Statistics, CSS","VLSI, Cybersecurity, IoT"
+979,Bob979,Business Analytics,"Power BI, Cybersecurity","VLSI, Data Science, Deep Learning"
+980,Diana980,Physics,"HTML, Statistics",Analytics
+981,Alice981,Mechanical Eng.,"IoT, ML, NLP, Excel, TensorFlow","Embedded Systems, Automation"
+982,Paul982,IT,"ML, HTML, IoT, Power BI, Cybersecurity",IoT
+983,Eva983,Mechanical Eng.,"Verilog, Cybersecurity, DL, Arduino, Excel","Analytics, Machine Learning"
+984,Tina984,Mathematics,"C++, Excel, Cloud, Statistics","AI, Cloud Computing"
+985,Oscar985,IT,"VHDL, Power BI, SQL","VLSI, IoT"
+986,Diana986,Physics,"TensorFlow, C++, HTML","Automation, Robotics"
+987,Alice987,Business Analytics,"ML, MATLAB, Cybersecurity","Machine Learning, AI"
+988,Jack988,Business Analytics,"Python, VHDL, Statistics, CSS, JavaScript","Analytics, Machine Learning, Data Science"
+989,Eva989,IT,"Cloud, Statistics, MATLAB, HTML","Cybersecurity, IoT"
+990,Eva990,Electrical Eng.,"Cloud, Statistics, Excel, Arduino, SQL","Automation, Machine Learning, Deep Learning"
+991,Alice991,Electrical Eng.,"Cloud, Python, DL, Power BI","Analytics, Software Development, Data Science"
+992,Charlie992,IT,"JavaScript, IoT, CSS, VHDL, Verilog","Cloud Computing, Cybersecurity, Automation"
+993,Frank993,Mechanical Eng.,"Java, SQL",VLSI
+994,Bob994,Business Analytics,"Verilog, Cybersecurity, Statistics",VLSI
+995,Oscar995,Computer Science,"ML, CSS, TensorFlow, MATLAB","Cloud Computing, Analytics"
+996,Mona996,Mathematics,"DL, Cloud, Java, TensorFlow, Excel","Cloud Computing, Analytics"
+997,Karen997,IT,"Excel, Java, IoT","Robotics, VLSI"
+998,Alice998,Physics,"Excel, R","VLSI, Data Science, Robotics"
+999,Ivy999,Mathematics,"SQL, Cloud, DL","IoT, Software Development, Deep Learning"
+1000,Paul1000,Physics,"Cloud, DL, VHDL, C++, Python",Robotics

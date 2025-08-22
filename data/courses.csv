@@ -1,0 +1,21 @@
+course_id,course_name,category,skills_required,difficulty
+101,Introduction to Data Science,Data Science,"Python, Statistics",Beginner
+102,Machine Learning with Python,Data Science,"Python, ML, Math",Intermediate
+103,Deep Learning Specialization,AI / Deep Learning,"Python, TensorFlow",Advanced
+104,SQL for Data Analytics,Data Analytics,"SQL, Excel",Beginner
+105,Big Data & Cloud Computing,Cloud / Big Data,"Python, Hadoop, Cloud",Intermediate
+106,IoT & Automation,IoT,"C, Arduino, Sensors",Intermediate
+107,VLSI Design Fundamentals,VLSI / Electronics,"Verilog, VHDL",Intermediate
+108,FPGA Programming with Verilog,VLSI / Electronics,"Verilog, FPGA",Advanced
+109,Embedded Systems with ARM,Embedded Systems,"C, Embedded C",Intermediate
+110,Robotics & AI,Robotics,"Python, Sensors, Control Systems",Advanced
+111,Power BI for Business Analytics,Data Visualization,"Power BI, Excel",Beginner
+112,Cybersecurity Basics,Security,"Networking, Python",Beginner
+113,Full Stack Web Development,Software Development,"Python, JavaScript, HTML, CSS",Intermediate
+114,Cloud Security,Security / Cloud,"Cloud, Cybersecurity",Advanced
+115,R Programming for Data Science,Data Science,"R, Statistics",Beginner
+116,Natural Language Processing,AI / Deep Learning,"Python, NLP",Intermediate
+117,Data Visualization with Tableau,Data Visualization,"Tableau, SQL",Beginner
+118,Reinforcement Learning,AI / Deep Learning,"Python, ML",Advanced
+119,Computer Vision,AI / Deep Learning,"Python, OpenCV",Advanced
+120,Cloud Architecture with AWS,Cloud / Big Data,"AWS, Python",Intermediate
